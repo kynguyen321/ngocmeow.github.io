@@ -155,7 +155,7 @@ const panel1 = [
 // vay---------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
-        "img": "Set hai dây trễ vai babydoll màu kem, có lớp lót mút ngực",
+        "img": "https://cf.shopee.vn/file/vn-11134207-23030-zmaftisbtaov71",
         "text": "Set hai dây trễ vai babydoll màu kem, có lớp lót mút ngực",
         "link": "https://shope.ee/7zfi3rBhse"
     },
