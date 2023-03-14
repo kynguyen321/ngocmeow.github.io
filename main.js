@@ -155,6 +155,21 @@ const panel1 = [
 // vay---------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://cf.shopee.vn/file/sg-11134201-22120-ho8tl2sgfmlv2a",
+        "text": "Đầm Natalia Dress",
+        "link": "https://shope.ee/7zfjXS5XgP"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-22120-puyd0flsaflv8e",
+        "text": "Đầm Rosa Dress",
+        "link": "https://shope.ee/1VSFu3KH5s"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-22120-oqmqtq6ffflvce",
+        "text": "Almira Dress",
+        "link": "https://shope.ee/5pbExKLtWk"
+    },
+    {
         "img": "https://cf.shopee.vn/file/vn-11134207-23030-zmaftisbtaov71",
         "text": "Set hai dây trễ vai babydoll màu kem, có lớp lót mút ngực",
         "link": "https://shope.ee/7zfi3rBhse"
