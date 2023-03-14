@@ -1,5 +1,5 @@
 
-//do meo ban
+//do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
         "img": "https://cf.shopee.vn/file/sg-11134201-22120-2nw05latg6kv0f",
@@ -152,13 +152,38 @@ const panel1 = [
         "link": "https://shope.ee/AwViEUWQ5"
     }
 ]
-// vay
+// vay---------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-//     {
-//         "img": "https://cf.shopee.vn/file/1f46dce4ecad6b10e65f9e95e7f0e9cd_tn",
-//         "text": "SET ÁO REN + QUẦN SUÔNG TRẮNG",
-//         "link": "https://shope.ee/6UqjD1WZNp"
-//     },
+    {
+        "img": "Set hai dây trễ vai babydoll màu kem, có lớp lót mút ngực",
+        "text": "Set hai dây trễ vai babydoll màu kem, có lớp lót mút ngực",
+        "link": "https://shope.ee/7zfi3rBhse"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/vn-11134207-23030-h7ybeleaxaovfc",
+        "text": "Set quần yếm đen áo sơmi tiểu thư",
+        "link": "https://shope.ee/5fHnKdEItc"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/vn-11134207-23030-04z5sjbevaovd8",
+        "text": "Set yếm nhung đen tiêu thư, kèm áo sơmi có thắt nơ",
+        "link": "https://shope.ee/30H29iGsvx"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-23010-9my1b5dy54lv32",
+        "text": "SET ÁO CỔ YẾM BÈO + QUẦN NGẮN",
+        "link": "https://shope.ee/1q55uRIiA6"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-22110-mdvfy8vw3vjv01",
+        "text": "đầm ống voan xoè viền đá",
+        "link": "https://shope.ee/4AT0giNQox"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-23020-17b4a5s7khnv62",
+        "text": "SET ỐNG TRẮNG TÀ XÉO TƯA CHÂN VÁY KAKI✨",
+        "link": "https://shope.ee/2feCtwKXYZ"
+    },
     {
         "img": "https://cf.shopee.vn/file/21a617bbaa1a9d2749f8f65a399dbf97",
         "text": "SET ÁO TRẮNG 2 DÂY VIỀN REN CỔ YẾM + QUẦN SUÔNG DẬP LY",
@@ -171,7 +196,7 @@ const panel2 = [
     },
     {
         "img": "https://cf.shopee.vn/file/1f46dce4ecad6b10e65f9e95e7f0e9cd",
-        "text": "ET ÁO REN + QUẦN SUÔNG TRẮNG",
+        "text": "SET ÁO REN + QUẦN SUÔNG TRẮNG",
         "link": "https://shope.ee/6UqjD1WZNp"
     },
     {
@@ -1060,7 +1085,7 @@ const panel2 = [
         "link": "https://shope.ee/10VemmU6UM"
     }
 ]
-//do ngu
+//do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/570eba6f-400b-47b3-9503-57c274021f3a9CCAC5F7-A18B-4E15-8135-982A0B68E8E4.jpeg",
@@ -1143,7 +1168,7 @@ const panel3 = [
         "link": "https://shope.ee/2pxJ0Ii3ay"
     }
 ]
-//ao thun, croptop
+//ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
     {
         "img": "https://cf.shopee.vn/file/vn-11134201-23020-bkgn0uvsu3nve7",
@@ -1331,7 +1356,7 @@ const panel4 = [
         "link": "https://shope.ee/10Vepbh4n0"
     }
 ]
-//Sweater, Hoodie, Jacket
+//Sweater, Hoodie, Jacket---------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/0db04ebb-a994-4526-9305-5e2fcb3ba3f31EF09661-F7A1-44FE-8094-A734859ECEB0.jpeg",
@@ -1484,7 +1509,7 @@ const panel5 = [
         "link": "https://shope.ee/LFy4reBqi"
     }
 ]
-//Cardigan
+//Cardigan---------------------------------------------------------------------------------------------------------------------------
 const panel6 = [
     {
         "img": "https://cf.shopee.vn/file/082244b1a9aa5f3b6cf603714f8dca12_tn",
@@ -1537,7 +1562,7 @@ const panel6 = [
         "link": "https://shope.ee/5paubwRuzo"
     }
 ]
-//Giày
+//Giày---------------------------------------------------------------------------------------------------------------------------
 const panel7 = [
     {
         "img": "https://cf.shopee.vn/file/sg-11134201-22120-my1q0gyh6wkv66",
@@ -1560,7 +1585,7 @@ const panel7 = [
         "link": "https://shope.ee/4Km6l1f3Mu"
     }
 ]
-// Ba lô, Phụ kiện, Giày
+// Ba lô, Phụ kiện, Giày---------------------------------------------------------------------------------------------------------------------------
 const panel8 = [
     {
         "img": "https://cf.shopee.vn/file/dcd37b6e9151969c642b1eb5917aec0c_tn",
@@ -1643,7 +1668,7 @@ const panel8 = [
         "link": "https://shope.ee/7f2YncCv7A"
     }
 ]
-// Mỹ Phẩm
+// Mỹ Phẩm---------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
      {
         "img": "https://cf.shopee.vn/file/sg-11134201-23010-97tmtbuvfwlvc9",
