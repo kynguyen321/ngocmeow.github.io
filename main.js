@@ -155,6 +155,21 @@ const panel1 = [
 // vay---------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://cf.shopee.vn/file/sg-11134201-22110-48uis9vw3vjv4e",
+        "text": "đầm ống voan xoè viền đá",
+        "link": "https://shope.ee/4AT0giNQox"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-23010-9my1b5dy54lv32",
+        "text": "SET ÁO CỔ YẾM BÈO + QUẦN NGẮN",
+        "link": "https://shope.ee/1q55uRIiA6"
+    },
+    {
+        "img": "https://cf.shopee.vn/file/sg-11134201-23020-17b4a5s7khnv62",
+        "text": "SET ỐNG TRẮNG TÀ XÉO TƯA CHÂN VÁY KAKI✨",
+        "link": "https://shope.ee/2feCtwKXYZ"
+    },
+    {
         "img": "https://cf.shopee.vn/file/sg-11134201-22120-ho8tl2sgfmlv2a",
         "text": "Đầm Natalia Dress",
         "link": "https://shope.ee/7zfjXS5XgP"
