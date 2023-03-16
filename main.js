@@ -2,6 +2,11 @@
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
+        "img": "https://cf.shopee.vn/file/vn-11134201-23030-ncgcvffhygov4e",
+        "text": "Lắc chân bạc nữ mèo chuông Miu Miu chất liệu bạc S925 thời trang phụ kiện trang sức nữ Viễn Chí Bảo L500079",
+        "link": "https://shope.ee/20OYsPHBKq"
+    },
+    {
         "img": "https://cf.shopee.vn/file/sg-11134201-22120-2nw05latg6kv0f",
         "text": "Dây chuyền thiên nga CDE Crystal Swan Necklace Silver CDE6042SV - Dây chuyền bạc nữ",
         "link": "https://shope.ee/8Ubs8QeJ9c"
