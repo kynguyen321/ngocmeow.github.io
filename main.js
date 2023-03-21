@@ -2,6 +2,16 @@
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-4x27qiebh9nv83",
+        "text": "Gọng kính cận nam nữ Lilyeyewear chất liệu kim loại mắt đa giác thanh mảnh 2808",
+        "link": "https://shope.ee/5pbPn35gVk"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-vncet2wch9nvb5",
+        "text": "Gọng kính nam nữ Lilyeyewear kim loại càng nhựa, mắt tròn, nhiều màu 6214",
+        "link": "https://shope.ee/5UyYzgsucS"
+    },
+    {
         "img": "https://cf.shopee.vn/file/vn-11134201-23030-ncgcvffhygov4e",
         "text": "Lắc chân bạc nữ mèo chuông Miu Miu chất liệu bạc S925 thời trang phụ kiện trang sức nữ Viễn Chí Bảo L500079",
         "link": "https://shope.ee/20OYsPHBKq"
