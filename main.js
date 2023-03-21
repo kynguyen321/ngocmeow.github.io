@@ -170,6 +170,21 @@ const panel1 = [
 // vay---------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23020-xat77x3bivnv2a",
+        "text": "Đầm midi hoa tay bồng cổ vuông dáng xòe chất hoa thêu đầm nữ dạo phố xinh xắn",
+        "link": "https://shope.ee/5ALcuRHvGQ"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-n0rm5ykvz6nv28",
+        "text": "Váy trắng dạo phố rút dây eo dáng xoè hoạ tiết hoa dập nổi xinh xắn",
+        "link": "https://shope.ee/502Ci61lYn"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23020-69161eq9tlnv3a",
+        "text": "Đầm nữ midi dáng dài xếp ly ngực chất gấm hoa Đầm nữ hàng thiết kế",
+        "link": "https://shope.ee/2L1RMOMymg"
+    },
+    {
         "img": "https://cf.shopee.vn/file/sg-11134201-22110-48uis9vw3vjv4e",
         "text": "đầm ống voan xoè viền đá",
         "link": "https://shope.ee/4AT0giNQox"
