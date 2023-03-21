@@ -1633,6 +1633,11 @@ const panel7 = [
 // Ba lô, Phụ kiện, Giày---------------------------------------------------------------------------------------------------------------------------
 const panel8 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/b467abb17bdf754081789a5e6f8159e5",
+        "text": "Shop đồng hồ Meo bận",
+        "link": "https://shope.ee/7UjYxkIm1J"
+    },
+    {
         "img": "https://cf.shopee.vn/file/dcd37b6e9151969c642b1eb5917aec0c_tn",
         "text": "giày M.L.B NY đen, giày thể thao nam nữ [FULLBOX]",
         "link": "https://shope.ee/9zQTZiml0a"
