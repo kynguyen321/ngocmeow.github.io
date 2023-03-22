@@ -167,8 +167,25 @@ const panel1 = [
         "link": "https://shope.ee/AwViEUWQ5"
     }
 ]
-// vay---------------------------------------------------------------------------------------------------------------------------
+// vay------------------------------------------------------------------------------------------------------------------------------------------------------------
+//
+//
+//                                                                         VÁY
+//
+//
+//
+//-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-1b0okb0bj4mv7f",
+        "text": "Maiaofficial- Set học sinh hàn áo crop chân váy đính kèm nơ tháo rời🎒",
+        "link": "https://shope.ee/4piucbb06e"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8o2fwr0i19nve2",
+        "text": "Maiaofficial-Set áo tay phồng quần lưng cao túi áo đính hoa Black Swan Set🦢",
+        "link": "https://shope.ee/4piucbb06e"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23020-xat77x3bivnv2a",
         "text": "Đầm midi hoa tay bồng cổ vuông dáng xòe chất hoa thêu đầm nữ dạo phố xinh xắn",
@@ -1148,6 +1165,11 @@ const panel2 = [
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-q33np4hd80jvbb",
+        "text": "Set Đồ Ngủ Quần Dài JEM CLOSET Bộ Nữ Pijama Form Rộng Thoải Mái Nhiều Màu Cực Xinh CARABA 8150",
+        "link": "https://shope.ee/502KZGjULy"
+    },
+    {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/570eba6f-400b-47b3-9503-57c274021f3a9CCAC5F7-A18B-4E15-8135-982A0B68E8E4.jpeg",
         "text": "￼Lacy Dress - đầm ngủ ren hoa nhí thiết kế Pretty Me",
         "link": "https://shope.ee/9KAmjn41B3"
@@ -1647,6 +1669,11 @@ const panel7 = [
 ]
 // Ba lô, Phụ kiện, Giày---------------------------------------------------------------------------------------------------------------------------
 const panel8 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-pq8nssmw6xov64",
+        "text": "Tinh dầu nước hoa CODEDECO Hanoi 29 Glamor 10ml Nhẹ Nhàng, Thanh Lịch, Tinh Tế",
+        "link": "https://shope.ee/2VKyXg1omd"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/b467abb17bdf754081789a5e6f8159e5",
         "text": "Shop đồng hồ Meo bận",
