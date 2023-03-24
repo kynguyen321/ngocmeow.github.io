@@ -1,6 +1,31 @@
-
+//1 do meo ban
+//2 Váy,set bộ
+//3 đồ ngủ
+//4 áo thun, croptop
+//5 sweater hoodie jacket
+//6 cardigan 
+//7 giày
+//8 phụ kiện, balo
+//9 mỹ phẩm
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
+    //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-u6oggewh7klv22",
+        "text": "AITHER STUDIO Áo Hoodie Zip Unisex form rộng (HÀNG CHÍNH HÃNG)",
+        "link": "https://shope.ee/3Ku9Ttz636"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/6aa3b73aa1f1b723f8d65ebfe0744783",
+        "text": "AITHER STUDIO Áo khoác MONO CARDIGAN in họa tiết thương hiệu màu Kem",
+        "link": "https://shope.ee/2feSgZ8rUw"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tpjxhyhrsqlvca",
+        "text": "AITHER STUDIO - Áo nỉ SIGNATURE SWEATER FORM RỘNG",
+        "link": "https://shope.ee/2feSgetAcT"
+    },
+    //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-4x27qiebh9nv83",
         "text": "Gọng kính cận nam nữ Lilyeyewear chất liệu kim loại mắt đa giác thanh mảnh 2808",
@@ -176,6 +201,46 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-qd0ixtm8p9mvb9",
+        "text": "Đầm hoa xanh rời - Chitchitstore",
+        "link": "https://shope.ee/5pbUkyt5uK"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/f16650b75442c9b6c9634769c71a3628",
+        "text": "Set quần ngắn + áo trắng trễ vai - Chitchitstore",
+        "link": "https://shope.ee/4KmgyAMQ2i"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-5s1or556gylv34",
+        "text": "Set áo ren trắng - Chitchitstore",
+        "link": "https://shope.ee/ftObMtnZx"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-d40i4y739mnvd6",
+        "text": "Đầm nữ thiết kế dáng ôm chất ren phối hoa đầm body sang trọng - lUX",
+        "link": "https://shope.ee/9eoBqCQ82z"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-s287i231yxmv88",
+        "text": "Đầm dự tiệc phối nơ vai đầm dạo phố dáng xòe xinh xắn - Dress moniss",
+        "link": "https://shope.ee/1VSU7AM55c"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23020-borexx5xtlnvad",
+        "text": "Đầm dự tiệc hở lưng dài tay phối lông vũ chất umi co giản",
+        "link": "https://shope.ee/3fWyh4Kb0t"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-tpd8vqulwvovce_tn",
+        "text": "Chân váy ngắn hoa nhí MONÁ - LALA",
+        "link": "https://shope.ee/1VSQE17cqw"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-trzjdo395inv7d",
+        "text": "Áo sơ mi cardigan MONÁ - MILIM ĐEN",
+        "link": "https://shope.ee/502MHujQH8"
+    },
      {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-1b0okb0bj4mv7f",
         "text": "Maiaofficial- Set học sinh hàn áo crop chân váy đính kèm nơ tháo rời🎒",
@@ -1441,6 +1506,21 @@ const panel4 = [
 //Sweater, Hoodie, Jacket---------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-u6oggewh7klv22",
+        "text": "AITHER STUDIO Áo Hoodie Zip Unisex form rộng (HÀNG CHÍNH HÃNG)",
+        "link": "https://shope.ee/3Ku9Ttz636"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/6aa3b73aa1f1b723f8d65ebfe0744783",
+        "text": "AITHER STUDIO Áo khoác MONO CARDIGAN in họa tiết thương hiệu màu Kem",
+        "link": "https://shope.ee/2feSgZ8rUw"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tpjxhyhrsqlvca",
+        "text": "AITHER STUDIO - Áo nỉ SIGNATURE SWEATER FORM RỘNG",
+        "link": "https://shope.ee/2feSgetAcT"
+    },
+    {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/0db04ebb-a994-4526-9305-5e2fcb3ba3f31EF09661-F7A1-44FE-8094-A734859ECEB0.jpeg",
         "text": "Áo Khoác Hoodie Nỉ bông siêu to khủng lồ hai lớp mũ siêu ấm",
         "link": "https://shope.ee/8UbfnV9nWq"
@@ -1762,6 +1842,11 @@ const panel8 = [
 ]
 // Mỹ Phẩm---------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-pq8nssmw6xov64",
+        "text": "Tinh dầu nước hoa CODEDECO Hanoi 29 Glamor 10ml Nhẹ Nhàng, Thanh Lịch, Tinh Tế",
+        "link": "https://shope.ee/2VKyXg1omd"
+    },
      {
         "img": "https://cf.shopee.vn/file/sg-11134201-23010-97tmtbuvfwlvc9",
         "text": "Kem Dưỡng Ẩm Trắng Da Body Yogurt Hella Beauty Hương Moringa Island Dưỡng Da Trắng Sáng Mịn Màng Phù Hợp Da Nhạy Cảm",
