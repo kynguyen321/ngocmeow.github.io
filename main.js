@@ -202,12 +202,22 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/e44c0fe420d52d13e87b4130b6ffc818",
+        "text": "ELY TOP & ELY SKIRT - Áo bồng trễ vai và chân váy quần",
+        "link": "https://shope.ee/1ApifV4fg1"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9",
+        "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
+        "link": "https://shope.ee/8UcJXJRtsO"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-qd0ixtm8p9mvb9",
         "text": "Đầm hoa xanh rời - Chitchitstore",
         "link": "https://shope.ee/5pbUkyt5uK"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/f16650b75442c9b6c9634769c71a3628",
+        "img": "https://image.passio.eco/passio-prod/512x512/build…75bb367/BC2688F0-0D75-49B4-BBD9-B5CCEBFD418B.jpeg",
         "text": "Set quần ngắn + áo trắng trễ vai - Chitchitstore",
         "link": "https://shope.ee/4KmgyAMQ2i"
     },
