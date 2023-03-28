@@ -9,21 +9,21 @@
 //9 mỹ phẩm
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
-    //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+        //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
     {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-u6oggewh7klv22",
-        "text": "AITHER STUDIO Áo Hoodie Zip Unisex form rộng (HÀNG CHÍNH HÃNG)",
-        "link": "https://shope.ee/3Ku9Ttz636"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
+        "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
+        "link": "https://shope.ee/6fAiMyjCgD"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/6aa3b73aa1f1b723f8d65ebfe0744783",
-        "text": "AITHER STUDIO Áo khoác MONO CARDIGAN in họa tiết thương hiệu màu Kem",
-        "link": "https://shope.ee/2feSgZ8rUw"
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
+        "text": "LOVE TEE SENTINIALS",
+        "link": "https://shope.ee/8pFCwsumQO"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tpjxhyhrsqlvca",
-        "text": "AITHER STUDIO - Áo nỉ SIGNATURE SWEATER FORM RỘNG",
-        "link": "https://shope.ee/2feSgetAcT"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
+        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
+        "link": "https://shope.ee/LGep8yxik"
     },
     //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
@@ -1328,6 +1328,16 @@ const panel3 = [
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
+        "text": "LOVE TEE SENTINIALS",
+        "link": "https://shope.ee/8pFCwsumQO"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
+        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
+        "link": "https://shope.ee/LGep8yxik"
+    },
+    {
         "img": "https://cf.shopee.vn/file/vn-11134201-23020-bkgn0uvsu3nve7",
         "text": "Áo Thun Hoạ Tiết Cô Gái",
         "link": "https://shope.ee/3fWZPlAmfL"
@@ -1515,6 +1525,11 @@ const panel4 = [
 ]
 //Sweater, Hoodie, Jacket---------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
+        "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
+        "link": "https://shope.ee/6fAiMyjCgD"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-u6oggewh7klv22",
         "text": "AITHER STUDIO Áo Hoodie Zip Unisex form rộng (HÀNG CHÍNH HÃNG)",
