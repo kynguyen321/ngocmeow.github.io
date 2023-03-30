@@ -202,6 +202,16 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lettt6ywdax66f",
+        "text": "Đầm Thiết Kế Rớt Vai Nơ TuongVy",
+        "link": "https://shope.ee/qCyi7hG0f"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lewtrjsoqqmv72",
+        "text": "Đầm Dự Tiệc Tacta trễ vai xoè",
+        "link": "https://shope.ee/6znc3Gp5zY"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/e44c0fe420d52d13e87b4130b6ffc818",
         "text": "ELY TOP & ELY SKIRT - Áo bồng trễ vai và chân váy quần",
         "link": "https://shope.ee/1ApifV4fg1"
@@ -1240,6 +1250,10 @@ const panel2 = [
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tfu3jsqkowkv11",
+        "text": "Đầm ngủ 2 dây nhún bèo đũi xốp hoạ tiết xinh xắn. Váy ngủ hoạ tiết gấu nhiều màu đáng yêu",
+        "link": "https://shope.ee/7f3IqLL7W0"
+    },{
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-q33np4hd80jvbb",
         "text": "Set Đồ Ngủ Quần Dài JEM CLOSET Bộ Nữ Pijama Form Rộng Thoải Mái Nhiều Màu Cực Xinh CARABA 8150",
         "link": "https://shope.ee/502KZGjULy"
@@ -1867,6 +1881,11 @@ const panel8 = [
 ]
 // Mỹ Phẩm---------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lewfeahqrl1zc0",
+        "text": "Son Kem Black Rouge Double Layer Over Velvet Ver.2 31.6g",
+        "link": "https://shope.ee/4Kmqs7itaS"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-pq8nssmw6xov64",
         "text": "Tinh dầu nước hoa CODEDECO Hanoi 29 Glamor 10ml Nhẹ Nhàng, Thanh Lịch, Tinh Tế",
