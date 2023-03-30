@@ -227,7 +227,7 @@ const panel2 = [
         "link": "https://shope.ee/5pbUkyt5uK"
     },
     {
-        "img": "https://image.passio.eco/passio-prod/512x512/build…75bb367/BC2688F0-0D75-49B4-BBD9-B5CCEBFD418B.jpeg",
+        "img": "https://down-vn.img.susercontent.com/file/f16650b75442c9b6c9634769c71a3628",
         "text": "Set quần ngắn + áo trắng trễ vai - Chitchitstore",
         "link": "https://shope.ee/4KmgyAMQ2i"
     },
