@@ -1250,6 +1250,20 @@ const panel2 = [
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-pkrx4qbxl2nv0c",
+        "text": "Bộ đồ ngủ nữ mặc nhà pijama cộc tay chất đũi gân cao cấp siêu mát CĐ1",
+        "link": "https://shope.ee/5zv6C1rk5h"
+    },{
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-0pszd1zpwsovab",
+        "text": "Đồ bộ pijama nữ tay ngắn mặc nhà lụa xước cao cấp siêu cute dễ thương CĐ2",
+        "link": "https://shope.ee/4KmsD1ADD6"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-zatxeepr17nva3",
+        "text": "Đồ bộ nữ mặc nhà 2 dây chất mango cao cấp họa tiết đẹp siêu mát DĐ3",
+        "link": "https://shope.ee/6pUDBdDLuq"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tfu3jsqkowkv11",
         "text": "Đầm ngủ 2 dây nhún bèo đũi xốp hoạ tiết xinh xắn. Váy ngủ hoạ tiết gấu nhiều màu đáng yêu",
         "link": "https://shope.ee/7f3IqLL7W0"
