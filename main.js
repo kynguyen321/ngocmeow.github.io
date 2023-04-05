@@ -10,21 +10,6 @@
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
         //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
-    {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
-        "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
-        "link": "https://shope.ee/6fAiMyjCgD"
-    },
-    {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
-        "text": "LOVE TEE SENTINIALS",
-        "link": "https://shope.ee/8pFCwsumQO"
-    },
-    {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-zc31qzg1yvovb0",
-        "text": "RAGLAN TEE SENTINIALS áo thun raglan",
-        "link": "https://shope.ee/LGep8yxik"
-    },
     //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-4x27qiebh9nv83",
@@ -201,6 +186,27 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
+        "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
+        "link": "https://shope.ee/9p7wWVJLgf"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-dj3z4lo9s9nv54",
+        "text": "EL02 - Set Áo Dây Phối Ren Thun Cotton Elastic",
+        "link": "https://shope.ee/7pMs8sutOq"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bx5wux0r5dovcf",
+        "text": "LT34 - Set Áo Dây Đắp Lưng Bèo",
+        "link": "https://shope.ee/6pUKwpUkkc"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/bb4b4a0069341e8780a8eafd148af024",
+        "text": "BỘ ĐÙI 2 DÂY LỤA REN HỒNG CAM",
+        "link": "https://shope.ee/3KuSkRrQVK"
+    },
+        //------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lettt6ywdax66f",
         "text": "Đầm Thiết Kế Rớt Vai Nơ TuongVy",
