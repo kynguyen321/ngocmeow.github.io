@@ -9,7 +9,12 @@
 //9 mỹ phẩm
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
-        //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
+        "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
+        "link": "https://shope.ee/5fIKqfSBZi"
+    },
     //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-4x27qiebh9nv83",
@@ -1901,6 +1906,11 @@ const panel8 = [
 ]
 // Mỹ Phẩm---------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
+        "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
+        "link": "https://shope.ee/5fIKqfSBZi"
+    },
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lewfeahqrl1zc0",
         "text": "Son Kem Black Rouge Double Layer Over Velvet Ver.2 31.6g",
