@@ -199,7 +199,7 @@ const panel2 = [
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-dj3z4lo9s9nv54",
         "text": "EL02 - Set Áo Dây Phối Ren Thun Cotton Elastic",
-        "link": "https://shope.ee/7pMs8sutOq"
+        "link": "https://shope.ee/502hClZo0Z"
     }, 
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bx5wux0r5dovcf",
