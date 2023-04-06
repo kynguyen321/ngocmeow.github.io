@@ -15,6 +15,11 @@ const panel1 = [
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
         "link": "https://shope.ee/5fIKqfSBZi"
     },
+      {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-uht6pz1968kved",
+        "text": "Áo thun local brand GHOST TRICK POPCORN màu đen & đỏ vải dày 250gsm - Hàng chính hãng",
+        "link": "https://shope.ee/7f3H7tpoMm"
+    },
     //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-4x27qiebh9nv83",
@@ -192,10 +197,85 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
-        "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9",
-        "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
-        "link": "https://shope.ee/8UcJXJRtsO"
-    }, 
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-n0ftlfqzslnv1b",
+        "text": "DE JOLIE DRESS đầm trễ vai bèo Ebublio",
+        "link": "https://shope.ee/8evzUrb3ii"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-2degkq9a87nv00",
+        "text": "ADELIA TOP áo rút ngực cánh tiên Ebublio",
+        "link": "https://shope.ee/LGrZc99ev"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-fzunssezfjnv7e",
+        "text": "CAROLYN DRESS đầm ngắn cổ lá sen Ebublio",
+        "link": "https://shope.ee/6pULJaJCgW"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-llxnjn4gmqnvbf",
+        "text": "SET VEST CROPTOP PHỐI CHÂN VÁY XẾP LI KÈM ÁO SƠ MI NGẮN TAY DÀI",
+        "link": "https://shope.ee/8UcYU9WUwj"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-x3m5q9ziapnvc5",
+        "text": "SET 3 MÓN ÁO SƠ MI TIỂU THƯ KÈM GILE VÀ CHÂN VÁY XẾP LI",
+        "link": "https://shope.ee/10WXYVR1rE"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-lpkwoosnmqnv55",
+        "text": "ÁO CROPTOP CỔ TRÒN TIỂU THƯ VIỀN ZICZAC 2 LỚP CHẤT DÀY KÈM NƠ CÀI",
+        "link": "https://shope.ee/3fXIjRSr8I"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-ay14cgusg4lvb7",
+        "text": "🌿 ĐẦM - VÁY TRẮNG TIỂU THƯ DÀI TAY * MISO * mặc sinh nhật, đi tiệc, kỷ yếu",
+        "link": "https://shope.ee/VaG31orjf"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-mnw0k3dn0fkv4c",
+        "text": "💐 VÁY ĐẦM TRẮNG TRỄ VAI CÔNG CHÚA * JASMINE ĐÍNH NGỌC TRẮNG * mặc sinh nhật, kỷ yếu, đi tiệc",
+        "link": "https://shope.ee/4V6OoUk0ee"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/95827dd6aed0bbc50ecc648ccc41a796",
+        "text": "❌ ĐẦM VÁY TRẮNG ĐÍNH HẠT VỎ SÒ DỰ TIỆC * FLOWER *",
+        "link": "https://shope.ee/89zhBHUloe"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-lkygg3z3aelvbd",
+        "text": "GILL BABY | Set áo chân váy basic đính nút vạt chéo chất bo gân mặc hằng ngày đi chơi (MUST HAVE SET)",
+        "link": "https://shope.ee/6fAs5ncQK5"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/ae52020fc8e0e46be3c0697e191b0dbf",
+        "text": "GILL BABY | Áo croptop tay phồng nhún ngực thắt dây đi chơi hẹn hò (ROSIE TOP)",
+        "link": "https://shope.ee/2L1svwud6s"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/459b434151c10f60adb4b80672d0a61c",
+        "text": "GILL BABY | Chân váy tầng xoè xếp ly 2 tầng có quần bảo hộ (HIGHTEEN SKIRT)",
+        "link": "https://shope.ee/8KJ651fEq8"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-m35k7pr54tlva7",
+        "text": "GILL BABY | Áo croptop cutout khuy cài độc đáo trendy đi chơi đi cafe sống ảo (OBSESS TOP)",
+        "link": "https://shope.ee/30HZjFlfkY"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-wj0wcw4wsjkvce",
+        "text": "GILL BABY | Chân váy dài gấp nếp bên hông đi chơi đi học đi làm sexy trendy basic (HOT CHICK SKIRT)",
+        "link": "https://shope.ee/6UrRtMbtEj"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/d8f3ceb3effaedfffe741041644d68f3",
+        "text": "SET ĐẦM DẠ ỐNG PHỐI VOAN TẦNG KÈM KHOÁC CROP DẠ (NƠ VOAN CỔ CHOCKER)",
+        "link": "https://shope.ee/7A76tZDRiB"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-4flg303l71jvba",
+        "text": "SET CROP ĐEN VIỀN CƯỜM KHOÉT NGỰC + CHÂN VÁY 🖤",
+        "link": "https://shope.ee/4KmvWQ9Pw1"
+    },
      {
         "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9",
         "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
@@ -1382,6 +1462,11 @@ const panel3 = [
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-uht6pz1968kved",
+        "text": "Áo thun local brand GHOST TRICK POPCORN màu đen & đỏ vải dày 250gsm - Hàng chính hãng",
+        "link": "https://shope.ee/7f3H7tpoMm"
+    },
+     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
         "text": "LOVE TEE SENTINIALS",
         "link": "https://shope.ee/8pFCwsumQO"
