@@ -191,26 +191,21 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-      {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
-        "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
-        "link": "https://shope.ee/9p7wWVJLgf"
+     {
+        "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9",
+        "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
+        "link": "https://shope.ee/8UcJXJRtsO"
     }, 
      {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-dj3z4lo9s9nv54",
-        "text": "EL02 - Set Áo Dây Phối Ren Thun Cotton Elastic",
-        "link": "https://shope.ee/502hClZo0Z"
+        "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9",
+        "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
+        "link": "https://shope.ee/8UcJXJRtsO"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/e44c0fe420d52d13e87b4130b6ffc818_tn",
+        "text": "ELY TOP & ELY SKIRT - Áo bồng trễ vai và chân váy quần",
+        "link": "https://shope.ee/1ApifV4fg1"
     }, 
-     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bx5wux0r5dovcf",
-        "text": "LT34 - Set Áo Dây Đắp Lưng Bèo",
-        "link": "https://shope.ee/6pUKwpUkkc"
-    },
-     {
-        "img": "https://down-vn.img.susercontent.com/file/bb4b4a0069341e8780a8eafd148af024",
-        "text": "BỘ ĐÙI 2 DÂY LỤA REN HỒNG CAM",
-        "link": "https://shope.ee/3KuSkRrQVK"
-    },
         //------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lettt6ywdax66f",
@@ -1260,6 +1255,26 @@ const panel2 = [
 ]
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
+        "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
+        "link": "https://shope.ee/9p7wWVJLgf"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-dj3z4lo9s9nv54",
+        "text": "EL02 - Set Áo Dây Phối Ren Thun Cotton Elastic",
+        "link": "https://shope.ee/502hClZo0Z"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bx5wux0r5dovcf",
+        "text": "LT34 - Set Áo Dây Đắp Lưng Bèo",
+        "link": "https://shope.ee/6pUKwpUkkc"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/bb4b4a0069341e8780a8eafd148af024",
+        "text": "BỘ ĐÙI 2 DÂY LỤA REN HỒNG CAM",
+        "link": "https://shope.ee/3KuSkRrQVK"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-pkrx4qbxl2nv0c",
         "text": "Bộ đồ ngủ nữ mặc nhà pijama cộc tay chất đũi gân cao cấp siêu mát CĐ1",
@@ -1564,7 +1579,7 @@ const panel4 = [
 ]
 //Sweater, Hoodie, Jacket---------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
-    {
+     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
         "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
         "link": "https://shope.ee/6fAiMyjCgD"
