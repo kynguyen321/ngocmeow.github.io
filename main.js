@@ -11,6 +11,16 @@
 const panel1 = [
      //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-o01kjvidxgov48",
+        "text": "Áo sơ mi nữ thiết kế khóa kéo hot trend độc đáo chất vải cao cấp không nhăn VAVASA SM43",
+        "link": "https://shope.ee/7pMu89MaAc"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-r4ra52iq2gov48",
+        "text": "Chân váy cạp cao hot trend phối vải vạt chất liệu cao cấp không nhăn-kèm đai VAVASA CV32",
+        "link": "https://shope.ee/4V6SA7kSaO"
+    },
+     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
         "link": "https://shope.ee/5fIKqfSBZi"
@@ -196,6 +206,21 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-leub1x67eo9j82",
+        "text": "Đầm trắng babydoll xoè phối choker cổ",
+        "link": "https://shope.ee/4pjIXyt6Ou"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-442db45r6xov36",
+        "text": "SET ÁO ỐNG TÀ LỆCH + QUẦN SUÔNG",
+        "link": "https://shope.ee/8pFRJNPfaX"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-leparm0jkywif0",
+        "text": "SET ÁO TRẮNG BÈO TAY LOE XẺ TÀ + QUẦN NGẮN",
+        "link": "https://shope.ee/8ew175pxGT"
+    },
      {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-n0ftlfqzslnv1b",
         "text": "DE JOLIE DRESS đầm trễ vai bèo Ebublio",
