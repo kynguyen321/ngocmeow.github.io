@@ -17,6 +17,11 @@ const panel1 = [
         "link": "https://shope.ee/1L9T1RFrIA"
     },
      {
+        "img": "https://down-vn.img.susercontent.com/file/eea5dde70971166badbaa6cc8275c4cc",
+        "text": "Baby Brown/ Sky Blue/ Mune Brown lens cận mắt kính áp tròng trong veo tự nhiên filter không viền có độ style Hàn Quốc",
+        "link": "https://shope.ee/6fAor7mnUe"
+    },
+     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
         "link": "https://shope.ee/5fIKqfSBZi"
