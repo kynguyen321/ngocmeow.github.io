@@ -1,3 +1,4 @@
+//9/4
 //1 do meo ban
 //2 Váy,set bộ
 //3 đồ ngủ
@@ -11,14 +12,9 @@
 const panel1 = [
      //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
      {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-o01kjvidxgov48",
-        "text": "Áo sơ mi nữ thiết kế khóa kéo hot trend độc đáo chất vải cao cấp không nhăn VAVASA SM43",
-        "link": "https://shope.ee/7pMu89MaAc"
-    },
-     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-r4ra52iq2gov48",
-        "text": "Chân váy cạp cao hot trend phối vải vạt chất liệu cao cấp không nhăn-kèm đai VAVASA CV32",
-        "link": "https://shope.ee/4V6SA7kSaO"
+        "img": "https://down-vn.img.susercontent.com/file/1a067bf0ddade87f4153e5de041d577e",
+        "text": "CARDIGAN SENTINIALS STRIPES áo cardigan",
+        "link": "https://shope.ee/1L9T1RFrIA"
     },
      {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
@@ -207,6 +203,36 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
      {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lewqw08bl0lz53",
+        "text": "Set áo ô xanh + quần trắng - Chitchitstore",
+        "link": "https://shope.ee/1q5l4JrBdf"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-loii95fr16mv52",
+        "text": "Đầm trắng đan dây lưng siêu đẹp - Chitchitstore",
+        "link": "https://shope.ee/4pjMdwdDHj"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-o5hij4tly2lv08",
+        "text": "Đầm gấm đỏ - Chitchitstore",
+        "link": "https://shope.ee/8Ucf0iJyi7"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-zyvvh0vc77nv1c",
+        "text": "Váy trắng trễ vai nơ đính nút ngọc *Gloria* dáng bồng tiểu thư mặc kỷ yếu, dự tiệc, tết",
+        "link": "https://shope.ee/2fepO8T6J6"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-wnutf8zrawmvc0",
+        "text": "ĐẦM-VÁY TRẮNG TAY HẠT NGỰC XẾP NHIỀU TẦNG CÔNG CHÚA MẶC KỶ YẾU, TIỆC CƯỚI, DU LỊCH",
+        "link": "https://shope.ee/7Uk59I4FJC"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ler4oegv3cei21",
+        "text": "Set dạ nhung *JISOO* phối cúc cổ bẻ sơ mi kèm chân váy mặc dự tiệc, prom, kỷ yếu",
+        "link": "https://shope.ee/5Uz0ldtB69"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-leub1x67eo9j82",
         "text": "Đầm trắng babydoll xoè phối choker cổ",
         "link": "https://shope.ee/4pjIXyt6Ou"
@@ -1862,6 +1888,11 @@ const panel5 = [
 ]
 //Cardigan---------------------------------------------------------------------------------------------------------------------------
 const panel6 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/1a067bf0ddade87f4153e5de041d577e",
+        "text": "CARDIGAN SENTINIALS STRIPES áo cardigan",
+        "link": "https://shope.ee/1L9T1RFrIA"
+    },
     {
         "img": "https://cf.shopee.vn/file/082244b1a9aa5f3b6cf603714f8dca12_tn",
         "text": "Áo khoác len Cardigan kẻ sọc tay màu be phong cách Hàn quốc",
