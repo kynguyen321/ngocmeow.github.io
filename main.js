@@ -1542,11 +1542,6 @@ const panel4 = [
         "text": "Áo thun baby tee MONÁ - TERRA",
         "link": "https://shope.ee/9p79Pl0thi"
     },
-//     {
-//         "img": "https://cf.shopee.vn/file/423baef225d11095f7626bea8fd38956",
-//         "text": "Áo Thun In Hình Thiếu Nữ Ôm Mèo Quảng Châu Cao Cấp AI18",
-//         "link": "https://shope.ee/8evASrzi1g"
-//     },
     {
         "img": "https://passio-prod.s3-ap-southeast-1.amazonaws.com/passio-prod/builder/62dd56294a305458b75bb367/2DB54C1D-C911-4529-B620-B908452B65D3.jpeg",
         "text": "MONÁ - Quần dài nỉ đóng logo ống rộng - BOBBI PANTS VÀNG/XÁM/XÁM CHÌ/HỒNG ĐẬM",
@@ -2120,6 +2115,14 @@ const panel9 = [
 //     item.link = a[i]
 //     console.log(a[i]);
 // }) 
+const arrLabel = ["one", "two", "three", "four", "five", "six", "seven", "eight", "night"]
+const listPn = [panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9]
+for(let i = 0; i < arrLabel.length; i++){
+    const labelTmp = document.querySelector("#"+arrLabel[i]+"-tab");
+    const textTmp = labelTmp.textContent
+    labelTmp.textContent = textTmp + " (" + listPn[i].length + ") "
+}
+
 function genItem(parent) {
     const oneItem = document.createElement("a");
     oneItem.setAttribute("href", item.link)
