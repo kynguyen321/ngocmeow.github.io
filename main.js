@@ -34,6 +34,21 @@ const vouchers = [
 const panel1 = [
     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf188yeiq447eb",
+        "text": "Aither Studio Áo thun BASIC BUBBLE TEE Black/Beige/Pink/White",
+        "link": "https://shope.ee/4fQ5wTvzCV"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfap0q3sdtvuda",
+        "text": "Aither Studio Áo thun SUMMER SCENT TEE Black/Beige",
+        "link": "https://shope.ee/9UVLhJenWi"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-leqor8d8ln0300",
+        "text": "Aither Studio Áo thun BE MY BEAR Black/Beige",
+        "link": "https://shope.ee/8pFeu10Xf6"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/1a067bf0ddade87f4153e5de041d577e",
         "text": "CARDIGAN SENTINIALS STRIPES áo cardigan",
         "link": "https://shope.ee/1L9T1RFrIA"
@@ -229,6 +244,21 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-aiay28bhjqlva5",
+        "text": "🌿 ĐẦM - VÁY TRẮNG TIỂU THƯ * BOO * mặc sinh nhật, kỷ yếu, đi tiệc",
+        "link": "https://shope.ee/502tv9ASNb"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-disvtz7009mvb4",
+        "text": "V791 Cateline dress Váy hai dây cột nơ hở lưng",
+        "link": "https://shope.ee/8pFcUFyEdI"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-bsyi1pc02znv81",
+        "text": "Áo Váy Cổ Yếm Lông Tay Bồng Siêu Xinh, Áo Váy Cổ Yếm Dáng Giấu Quần Chất Vải Lông Phong Cách Tiểu Thư",
+        "link": "https://shope.ee/4pjTivhzhj"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lewqw08bl0lz53",
         "text": "Set áo ô xanh + quần trắng - Chitchitstore",
@@ -1539,6 +1569,21 @@ const panel3 = [
 ]
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf188yeiq447eb",
+        "text": "Aither Studio Áo thun BASIC BUBBLE TEE Black/Beige/Pink/White",
+        "link": "https://shope.ee/4fQ5wTvzCV"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfap0q3sdtvuda",
+        "text": "Aither Studio Áo thun SUMMER SCENT TEE Black/Beige",
+        "link": "https://shope.ee/9UVLhJenWi"
+    },
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-leqor8d8ln0300",
+        "text": "Aither Studio Áo thun BE MY BEAR Black/Beige",
+        "link": "https://shope.ee/8pFeu10Xf6"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-uht6pz1968kved",
         "text": "Áo thun local brand GHOST TRICK POPCORN màu đen & đỏ vải dày 250gsm - Hàng chính hãng",
