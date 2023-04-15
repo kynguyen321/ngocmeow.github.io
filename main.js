@@ -7,19 +7,19 @@ const vouchers = [
         date: 'Sắp hết hạn: Còn'
     },
     {
+        link: 'https://shope.ee/AUNtBYXFFk',
+        type: 'ship',
+        title: 'Miễn phí vận chuyển',
+        description: 'Đơn tối thiểu ₫0k',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
         link: 'https://shope.ee/6UrkQHSzXU',
         type: 'discount',
         title: 'Giảm ₫20k',
         description: 'Không giới hạn giá trị khuyến mãi tối đa',
         date: 'Sắp hết hạn: Còn'
     },
-    {
-        link: 'https://shope.ee/AUNtBYXFFk',
-        type: 'ship',
-        title: 'Miễn phí vận chuyển',
-        description: 'Đơn tối thiểu ₫0k',
-        date: 'Sắp hết hạn: Còn'
-    }
 ]
 //1 do meo ban
 //2 Váy,set bộ
