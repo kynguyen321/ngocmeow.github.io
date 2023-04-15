@@ -245,6 +245,16 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-nkyzna4pwqovad",
+        "text": "Set chân váy maxi áo crotop màu hồng đi biển, Chân váy dài áo quây cotton crepe Bliz V10",
+        "link": "https://shope.ee/AxffD5woh"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-dfvbx2k9psnv2b",
+        "text": "Set áo sơ mi nữ và chân váy ngắn vải đũi trắng Summer ST03",
+        "link": "https://shope.ee/8UcnaekBrl"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-aiay28bhjqlva5",
         "text": "🌿 ĐẦM - VÁY TRẮNG TIỂU THƯ * BOO * mặc sinh nhật, kỷ yếu, đi tiệc",
         "link": "https://shope.ee/502tv9ASNb"
@@ -1443,6 +1453,21 @@ const panel2 = [
 ]
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfkrkh0kwtbpec",
+        "text": "Set đồ ngủ nữ pyjama đẹp mặc nhà hoa trắng Lila, bộ ngủ nữ sexy vải voan hoa nhí Uri Studio",
+        "link": "https://shope.ee/7A7PmDRrA9"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfkrkh0kzmglcb",
+        "text": "Set đồ ngủ nữ pyjama đẹp mặc nhà Lila, bộ ngủ nữ sexy vải voan hoa nhí Uri Studio",
+        "link": "https://shope.ee/8ewDZ2304X"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bqg3jp6tbvov9a",
+        "text": "Set đồ ngủ nữ mặc nhà mùa hè đẹp Alice, set đồ ngủ nữ 2 dây cute Uri Studio",
+        "link": "https://shope.ee/4KnEP9HPNY"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
         "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
