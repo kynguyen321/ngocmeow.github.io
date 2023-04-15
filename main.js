@@ -2387,7 +2387,7 @@ function getTimeRe() {
     const d = new Date();
     let hour = d.getHours();
     let h = 23 - hour;
-    if (hours > 0) return hours + " giờ";
+    if (h > 0) return h + " giờ";
     let minutes = d.getMinutes();
     let m = 60 - minutes;
     return m + " phút";
