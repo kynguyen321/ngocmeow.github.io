@@ -2265,7 +2265,7 @@ function genVoucher(parent) {
 
     const dateVC = document.createElement("div");
     dateVC.classList.add("date")
-    dateVC.textContent = item.date + " " + getTimeRe() + " giờ"
+    dateVC.textContent = item.date + " " + getTimeRe()
 
     text.appendChild(titleVc);
     text.appendChild(desVC);
@@ -2384,18 +2384,11 @@ function searchFunc() {
 }
 
 function getTimeRe() {
-    let now = new Date();
-
-// Lấy thời gian của ngày hôm sau
-    let tomorrow = new Date(now.getFullYear(), now.getMonth(), now.getDate()+1);
-
-// Lấy thời gian của đầu ngày hôm sau trừ đi thời gian hiện tại
-    let remainingTime = tomorrow - now;
-
-// Chuyển đổi thời gian còn lại thành giây
-    let remainingSeconds = Math.floor(remainingTime / 1000);
-
-// Chuyển đổi giây thành thời gian dạng giờ:phút:giây
-    let hours = Math.floor(remainingSeconds / 3600);
-    return hours;
+    const d = new Date();
+    let hour = d.getHours();
+    let h = 23 - hour;
+    if (hours > 0) return hours + " giờ";
+    let minutes = d.getMinutes();
+    let m = 60 - minutes;
+    return m + " phút";
 }
