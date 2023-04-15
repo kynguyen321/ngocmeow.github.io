@@ -2397,5 +2397,5 @@ function getTimeRe() {
 
 // Chuyển đổi giây thành thời gian dạng giờ:phút:giây
     let hours = Math.floor(remainingSeconds / 3600);
-    return hours - 1;
+    return hours;
 }
