@@ -2384,8 +2384,18 @@ function searchFunc() {
 }
 
 function getTimeRe() {
-    // Lấy thời gian hiện tại
     let now = new Date();
-    let h = now.getDate();
-    return 24-h;
+
+// Lấy thời gian của ngày hôm sau
+    let tomorrow = new Date(now.getFullYear(), now.getMonth(), now.getDate()+1);
+
+// Lấy thời gian của đầu ngày hôm sau trừ đi thời gian hiện tại
+    let remainingTime = tomorrow - now;
+
+// Chuyển đổi thời gian còn lại thành giây
+    let remainingSeconds = Math.floor(remainingTime / 1000);
+
+// Chuyển đổi giây thành thời gian dạng giờ:phút:giây
+    let hours = Math.floor(remainingSeconds / 3600);
+    return hours - 1;
 }
