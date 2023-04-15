@@ -1,4 +1,26 @@
-//9/4
+const vouchers = [
+    {
+        link: 'https://shope.ee/7pMyi1rqgT',
+        type: 'discount',
+        title: 'Giảm ₫30k',
+        description: 'Không giới hạn giá trị khuyến mãi tối đa',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
+        link: 'https://shope.ee/6UrkQHSzXU',
+        type: 'discount',
+        title: 'Giảm ₫20k',
+        description: 'Không giới hạn giá trị khuyến mãi tối đa',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
+        link: 'https://shope.ee/AUNtBYXFFk',
+        type: 'ship',
+        title: 'Miễn phí vận chuyển',
+        description: 'Đơn tối thiểu ₫0k',
+        date: 'Sắp hết hạn: Còn'
+    }
+]
 //1 do meo ban
 //2 Váy,set bộ
 //3 đồ ngủ
@@ -10,23 +32,23 @@
 //9 mỹ phẩm
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
-     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
-     {
+    //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+    {
         "img": "https://down-vn.img.susercontent.com/file/1a067bf0ddade87f4153e5de041d577e",
         "text": "CARDIGAN SENTINIALS STRIPES áo cardigan",
         "link": "https://shope.ee/1L9T1RFrIA"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/eea5dde70971166badbaa6cc8275c4cc",
         "text": "Baby Brown/ Sky Blue/ Mune Brown lens cận mắt kính áp tròng trong veo tự nhiên filter không viền có độ style Hàn Quốc",
         "link": "https://shope.ee/6fAor7mnUe"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
         "link": "https://shope.ee/5fIKqfSBZi"
     },
-      {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-uht6pz1968kved",
         "text": "Áo thun local brand GHOST TRICK POPCORN màu đen & đỏ vải dày 250gsm - Hàng chính hãng",
         "link": "https://shope.ee/7f3H7tpoMm"
@@ -207,7 +229,7 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lewqw08bl0lz53",
         "text": "Set áo ô xanh + quần trắng - Chitchitstore",
         "link": "https://shope.ee/1q5l4JrBdf"
@@ -227,7 +249,7 @@ const panel2 = [
         "text": "Váy trắng trễ vai nơ đính nút ngọc *Gloria* dáng bồng tiểu thư mặc kỷ yếu, dự tiệc, tết",
         "link": "https://shope.ee/2fepO8T6J6"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-wnutf8zrawmvc0",
         "text": "ĐẦM-VÁY TRẮNG TAY HẠT NGỰC XẾP NHIỀU TẦNG CÔNG CHÚA MẶC KỶ YẾU, TIỆC CƯỚI, DU LỊCH",
         "link": "https://shope.ee/7Uk59I4FJC"
@@ -242,107 +264,107 @@ const panel2 = [
         "text": "Đầm trắng babydoll xoè phối choker cổ",
         "link": "https://shope.ee/4pjIXyt6Ou"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-442db45r6xov36",
         "text": "SET ÁO ỐNG TÀ LỆCH + QUẦN SUÔNG",
         "link": "https://shope.ee/8pFRJNPfaX"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-leparm0jkywif0",
         "text": "SET ÁO TRẮNG BÈO TAY LOE XẺ TÀ + QUẦN NGẮN",
         "link": "https://shope.ee/8ew175pxGT"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-n0ftlfqzslnv1b",
         "text": "DE JOLIE DRESS đầm trễ vai bèo Ebublio",
         "link": "https://shope.ee/8evzUrb3ii"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-2degkq9a87nv00",
         "text": "ADELIA TOP áo rút ngực cánh tiên Ebublio",
         "link": "https://shope.ee/LGrZc99ev"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-fzunssezfjnv7e",
         "text": "CAROLYN DRESS đầm ngắn cổ lá sen Ebublio",
         "link": "https://shope.ee/6pULJaJCgW"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-llxnjn4gmqnvbf",
         "text": "SET VEST CROPTOP PHỐI CHÂN VÁY XẾP LI KÈM ÁO SƠ MI NGẮN TAY DÀI",
         "link": "https://shope.ee/8UcYU9WUwj"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-x3m5q9ziapnvc5",
         "text": "SET 3 MÓN ÁO SƠ MI TIỂU THƯ KÈM GILE VÀ CHÂN VÁY XẾP LI",
         "link": "https://shope.ee/10WXYVR1rE"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-lpkwoosnmqnv55",
         "text": "ÁO CROPTOP CỔ TRÒN TIỂU THƯ VIỀN ZICZAC 2 LỚP CHẤT DÀY KÈM NƠ CÀI",
         "link": "https://shope.ee/3fXIjRSr8I"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-ay14cgusg4lvb7",
         "text": "🌿 ĐẦM - VÁY TRẮNG TIỂU THƯ DÀI TAY * MISO * mặc sinh nhật, đi tiệc, kỷ yếu",
         "link": "https://shope.ee/VaG31orjf"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-mnw0k3dn0fkv4c",
         "text": "💐 VÁY ĐẦM TRẮNG TRỄ VAI CÔNG CHÚA * JASMINE ĐÍNH NGỌC TRẮNG * mặc sinh nhật, kỷ yếu, đi tiệc",
         "link": "https://shope.ee/4V6OoUk0ee"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/95827dd6aed0bbc50ecc648ccc41a796",
         "text": "❌ ĐẦM VÁY TRẮNG ĐÍNH HẠT VỎ SÒ DỰ TIỆC * FLOWER *",
         "link": "https://shope.ee/89zhBHUloe"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-lkygg3z3aelvbd",
         "text": "GILL BABY | Set áo chân váy basic đính nút vạt chéo chất bo gân mặc hằng ngày đi chơi (MUST HAVE SET)",
         "link": "https://shope.ee/6fAs5ncQK5"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/ae52020fc8e0e46be3c0697e191b0dbf",
         "text": "GILL BABY | Áo croptop tay phồng nhún ngực thắt dây đi chơi hẹn hò (ROSIE TOP)",
         "link": "https://shope.ee/2L1svwud6s"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/459b434151c10f60adb4b80672d0a61c",
         "text": "GILL BABY | Chân váy tầng xoè xếp ly 2 tầng có quần bảo hộ (HIGHTEEN SKIRT)",
         "link": "https://shope.ee/8KJ651fEq8"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-m35k7pr54tlva7",
         "text": "GILL BABY | Áo croptop cutout khuy cài độc đáo trendy đi chơi đi cafe sống ảo (OBSESS TOP)",
         "link": "https://shope.ee/30HZjFlfkY"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-wj0wcw4wsjkvce",
         "text": "GILL BABY | Chân váy dài gấp nếp bên hông đi chơi đi học đi làm sexy trendy basic (HOT CHICK SKIRT)",
         "link": "https://shope.ee/6UrRtMbtEj"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/d8f3ceb3effaedfffe741041644d68f3",
         "text": "SET ĐẦM DẠ ỐNG PHỐI VOAN TẦNG KÈM KHOÁC CROP DẠ (NƠ VOAN CỔ CHOCKER)",
         "link": "https://shope.ee/7A76tZDRiB"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-4flg303l71jvba",
         "text": "SET CROP ĐEN VIỀN CƯỜM KHOÉT NGỰC + CHÂN VÁY 🖤",
         "link": "https://shope.ee/4KmvWQ9Pw1"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/b534c6c2ce5d81550e0c7a3b97d47af9",
         "text": "LENA DRESS - Váy trễ vai phối dây đính đá",
         "link": "https://shope.ee/8UcJXJRtsO"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/e44c0fe420d52d13e87b4130b6ffc818_tn",
         "text": "ELY TOP & ELY SKIRT - Áo bồng trễ vai và chân váy quần",
         "link": "https://shope.ee/1ApifV4fg1"
-    }, 
-        //------------------------------------------
+    },
+    //------------------------------------------
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lettt6ywdax66f",
         "text": "Đầm Thiết Kế Rớt Vai Nơ TuongVy",
@@ -403,7 +425,7 @@ const panel2 = [
         "text": "Áo sơ mi cardigan MONÁ - MILIM ĐEN",
         "link": "https://shope.ee/502MHujQH8"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-1b0okb0bj4mv7f",
         "text": "Maiaofficial- Set học sinh hàn áo crop chân váy đính kèm nơ tháo rời🎒",
         "link": "https://shope.ee/4piucbb06e"
@@ -1391,22 +1413,22 @@ const panel2 = [
 ]
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8s9zv4uop6nv50",
         "text": "EL01 - Set Áo Quần Thun Nhún Bèo Cổ Trụ",
         "link": "https://shope.ee/9p7wWVJLgf"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-dj3z4lo9s9nv54",
         "text": "EL02 - Set Áo Dây Phối Ren Thun Cotton Elastic",
         "link": "https://shope.ee/502hClZo0Z"
-    }, 
-     {
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bx5wux0r5dovcf",
         "text": "LT34 - Set Áo Dây Đắp Lưng Bèo",
         "link": "https://shope.ee/6pUKwpUkkc"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/bb4b4a0069341e8780a8eafd148af024",
         "text": "BỘ ĐÙI 2 DÂY LỤA REN HỒNG CAM",
         "link": "https://shope.ee/3KuSkRrQVK"
@@ -1415,7 +1437,7 @@ const panel3 = [
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-pkrx4qbxl2nv0c",
         "text": "Bộ đồ ngủ nữ mặc nhà pijama cộc tay chất đũi gân cao cấp siêu mát CĐ1",
         "link": "https://shope.ee/5zv6C1rk5h"
-    },{
+    }, {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-0pszd1zpwsovab",
         "text": "Đồ bộ pijama nữ tay ngắn mặc nhà lụa xước cao cấp siêu cute dễ thương CĐ2",
         "link": "https://shope.ee/4KmsD1ADD6"
@@ -1429,7 +1451,7 @@ const panel3 = [
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-tfu3jsqkowkv11",
         "text": "Đầm ngủ 2 dây nhún bèo đũi xốp hoạ tiết xinh xắn. Váy ngủ hoạ tiết gấu nhiều màu đáng yêu",
         "link": "https://shope.ee/7f3IqLL7W0"
-    },{
+    }, {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-q33np4hd80jvbb",
         "text": "Set Đồ Ngủ Quần Dài JEM CLOSET Bộ Nữ Pijama Form Rộng Thoải Mái Nhiều Màu Cực Xinh CARABA 8150",
         "link": "https://shope.ee/502KZGjULy"
@@ -1522,7 +1544,7 @@ const panel4 = [
         "text": "Áo thun local brand GHOST TRICK POPCORN màu đen & đỏ vải dày 250gsm - Hàng chính hãng",
         "link": "https://shope.ee/7f3H7tpoMm"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-cpvkyrq5y5mv11",
         "text": "LOVE TEE SENTINIALS",
         "link": "https://shope.ee/8pFCwsumQO"
@@ -1715,7 +1737,7 @@ const panel4 = [
 ]
 //Sweater, Hoodie, Jacket---------------------------------------------------------------------------------------------------------------------------
 const panel5 = [
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
         "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
         "link": "https://shope.ee/6fAiMyjCgD"
@@ -2062,12 +2084,12 @@ const panel8 = [
 ]
 // Mỹ Phẩm---------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
         "link": "https://shope.ee/5fIKqfSBZi"
     },
-     {
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lewfeahqrl1zc0",
         "text": "Son Kem Black Rouge Double Layer Over Velvet Ver.2 31.6g",
         "link": "https://shope.ee/4Kmqs7itaS"
@@ -2077,7 +2099,7 @@ const panel9 = [
         "text": "Tinh dầu nước hoa CODEDECO Hanoi 29 Glamor 10ml Nhẹ Nhàng, Thanh Lịch, Tinh Tế",
         "link": "https://shope.ee/2VKyXg1omd"
     },
-     {
+    {
         "img": "https://cf.shopee.vn/file/sg-11134201-23010-97tmtbuvfwlvc9",
         "text": "Kem Dưỡng Ẩm Trắng Da Body Yogurt Hella Beauty Hương Moringa Island Dưỡng Da Trắng Sáng Mịn Màng Phù Hợp Da Nhạy Cảm",
         "link": "https://shope.ee/A9jzRT9nM1"
@@ -2117,8 +2139,8 @@ const panel9 = [
 // }) 
 const arrLabel = ["one", "two", "three", "four", "five", "six", "seven", "eight", "night"]
 const listPn = [panel1, panel2, panel3, panel4, panel5, panel6, panel7, panel8, panel9]
-for(let i = 0; i < arrLabel.length; i++){
-    const labelTmp = document.querySelector("#"+arrLabel[i]+"-tab");
+for (let i = 0; i < arrLabel.length; i++) {
+    const labelTmp = document.querySelector("#" + arrLabel[i] + "-tab");
     const textTmp = labelTmp.textContent
     labelTmp.textContent = textTmp + " (" + listPn[i].length + ") "
 }
@@ -2140,6 +2162,73 @@ function genItem(parent) {
     parent.appendChild(oneItem);
 }
 
+function genVoucher(parent) {
+    const oneItem = document.createElement("a");
+    oneItem.classList.add("voucher")
+    oneItem.setAttribute("href", item.link)
+
+    const slch = document.createElement("div");
+    slch.textContent = "Số luợng có hạn";
+    slch.classList.add("vctag");
+
+    const image = document.createElement("img");
+    if (item.type === 'discount') {
+        image.setAttribute("src", "./vcsp.png");
+    } else {
+        image.setAttribute("src", "./fssp.png");
+    }
+    image.setAttribute("alt", "voucher")
+
+    const info = document.createElement("div");
+    info.classList.add("info")
+
+    const text = document.createElement("div");
+    text.classList.add("text")
+
+    const titleVc = document.createElement("div");
+    titleVc.classList.add("title-vc")
+    titleVc.textContent = item.title
+
+    const desVC = document.createElement("div");
+    desVC.classList.add("des-vc")
+    desVC.textContent = item.description
+
+    const dateVC = document.createElement("div");
+    dateVC.classList.add("date")
+    dateVC.textContent = item.date + " " + getTimeRe() + " giờ"
+
+    text.appendChild(titleVc);
+    text.appendChild(desVC);
+    text.appendChild(dateVC);
+
+    const btn = document.createElement("div");
+    btn.classList.add("btn")
+
+    const btnSave = document.createElement("div");
+    btnSave.classList.add("btn-save")
+    btnSave.textContent = "Lưu"
+
+    const cond = document.createElement("div");
+    cond.classList.add("cond-vc")
+    cond.textContent = "Điều kiện"
+
+    btn.appendChild(btnSave);
+    btn.appendChild(cond);
+
+    info.appendChild(text)
+    info.appendChild(btn)
+
+    oneItem.appendChild(slch)
+    oneItem.appendChild(image)
+    oneItem.appendChild(info)
+
+    parent.appendChild(oneItem);
+}
+
+for (item of vouchers) {
+    const itemsList = document.querySelector("#voucher-list");
+    genVoucher(itemsList)
+}
 
 for (item of panel1) {
     const itemsList = document.querySelector("#one-panel-list");
@@ -2224,10 +2313,9 @@ function searchFunc() {
     }
 }
 
-
-
-
-
-
-
-
+function getTimeRe() {
+    // Lấy thời gian hiện tại
+    let now = new Date();
+    let h = now.getDate();
+    return 24-h;
+}
