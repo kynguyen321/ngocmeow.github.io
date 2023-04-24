@@ -41,39 +41,34 @@ const vouchers = [
 const panel1 = [
     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf188yeiq447eb",
-        "text": "Aither Studio Áo thun BASIC BUBBLE TEE Black/Beige/Pink/White",
-        "link": "https://shope.ee/4fQ5wTvzCV"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfyyuayxljzec5",
+        "text": "Chân váy jean bò ngắn ôm rách nhẹ TiQi Jeans V1-265",
+        "link": "https://shope.ee/4fQKtWrCxL"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfap0q3sdtvuda",
-        "text": "Aither Studio Áo thun SUMMER SCENT TEE Black/Beige",
-        "link": "https://shope.ee/9UVLhJenWi"
-    },
-     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-leqor8d8ln0300",
-        "text": "Aither Studio Áo thun BE MY BEAR Black/Beige",
-        "link": "https://shope.ee/8pFeu10Xf6"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfrocgzegjxzb6",
+        "text": "Chân váy jean rách chữ A phối cúc giữa TiQi Jeans V1-269Đồ bộ mặc nhà pyjama xô muslin hoạ tiết quả đào nền hồng Dabi",
+        "link": "https://shope.ee/7zgmrYcTPl"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/1a067bf0ddade87f4153e5de041d577e",
-        "text": "CARDIGAN SENTINIALS STRIPES áo cardigan",
-        "link": "https://shope.ee/1L9T1RFrIA"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfplzg2oi35w42",
+        "text": "Combo sữa dưỡng thể, sữa tắm dưỡng trắng Niacinamide 500ml",
+        "link": "https://shope.ee/8pFgUhOAuV"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/eea5dde70971166badbaa6cc8275c4cc",
-        "text": "Baby Brown/ Sky Blue/ Mune Brown lens cận mắt kính áp tròng trong veo tự nhiên filter không viền có độ style Hàn Quốc",
-        "link": "https://shope.ee/6fAor7mnUe"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lep7fba336wic9",
+        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết quả đào nền hồng Dabi",
+        "link": "https://shope.ee/1AqELxcSoL"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
-        "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
-        "link": "https://shope.ee/5fIKqfSBZi"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lep7i3dim0tv82",
+        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết hoa tulip nền trắng kem Dabi",
+        "link": "https://shope.ee/qDNxCTkyF"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-uht6pz1968kved",
-        "text": "Áo thun local brand GHOST TRICK POPCORN màu đen & đỏ vải dày 250gsm - Hàng chính hãng",
-        "link": "https://shope.ee/7f3H7tpoMm"
+        "img": "https://down-vn.img.susercontent.com/file/73fe75d0c285d0abf595003fab057f6b",
+        "text": "Áo Hoodie Mũ Trùm Vải Nỉ Bông Unisex FERNERY - HADES Brand Chính Hãng",
+        "link": "https://shope.ee/5zvYvsnvUX"
     },
     //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
@@ -251,6 +246,66 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-w5e7c4jt2imv5a",
+        "text": "Váy body ba lỗ tôn dáng sexy đầm hai dây bảng to ôm sát nách cổ xẻ V gợi cảm vải thun gân dày xịn Lch",
+        "link": "https://shope.ee/6fBPQnBxn6"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-a9fdk0481vmv62",
+        "text": "GILL BABY | Đầm váy body cutout phối khuy gài đi chơi hẹn hò cafe cà phê (OBSESS DRESS)",
+        "link": "https://shope.ee/3VELTxM51E"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfn99qjzxmr99c",
+        "text": "[Sẵn mút]Đầm ren hoa 2 dây công chúa tiểu thư đính đá cao cấp mềm mát đi chơi du lịch hẹn hò đi biển BYBYPIL",
+        "link": "https://shope.ee/3KuuEwNub3"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf4yzeczas9621",
+        "text": "Set đồ nữ sang chảnh áo croptop tay bồng phối chân váy xòe SE15",
+        "link": "https://shope.ee/1q65rJT6bB"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-bn1lolb24qov84",
+        "text": "Váy gấm hoa nổi tay bèo tiểu thư dáng suông V06",
+        "link": "https://shope.ee/5AMXpKbBad"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfhvmdf6vc04a0",
+        "text": "Chloe Set - Set áo lai tim cổ vuông + chân váy chữ A mini - Morri Club",
+        "link": "https://shope.ee/6pUkbSbMEA"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-6oxtldx00snvd4",
+        "text": "Set áo ống đen nơ trắng + quần - Chitchitstore",
+        "link": "https://shope.ee/1VTB5cdtkw"
+    },
+    {
+        "img": "hhttps://down-vn.img.susercontent.com/file/sg-11134201-22100-avn8d75mmtiv08",
+        "text": "Áo dạ + áo ren + váy đen - Chitchitstore",
+        "link": "https://shope.ee/1fmbY1AAXT"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-jqad6ufbvunv3e",
+        "text": "Set 3 món đen - Chitchitstore",
+        "link": "https://shope.ee/6fBHVGxuCo"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-tdwtcxr7wtov73",
+        "text": "Váy cổ yếm trễ vai [Lily Dress] tafta cao cấp cực xinh - Đầm yếm tay bồng tafta hai màu kiều nữ 2 lớp babydoll",
+        "link": "https://shope.ee/5pc9k6opBx"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-6aqoe5mnksov4b",
+        "text": "ĐẦM XỐP NỔI LOANG HỒNG PHỐI TAY 🥰🥰✨",
+        "link": "https://shope.ee/99sWwzISN9"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-f70g8w03feov75",
+        "text": "ĐẦM ỐNG HỒNG TAY VOAN BỒNG BỀNH",
+        "link": "https://shope.ee/7UkIyGP7NS"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-nkyzna4pwqovad",
         "text": "Set chân váy maxi áo crotop màu hồng đi biển, Chân váy dài áo quây cotton crepe Bliz V10",
@@ -1461,6 +1516,16 @@ const panel2 = [
 //do ngu---------------------------------------------------------------------------------------------------------------------------
 const panel3 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lep7fba336wic9",
+        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết quả đào nền hồng Dabi",
+        "link": "https://shope.ee/1AqELxcSoL"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lep7i3dim0tv82",
+        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết hoa tulip nền trắng kem Dabi",
+        "link": "https://shope.ee/qDNxCTkyF"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfkrkh0kwtbpec",
         "text": "Set đồ ngủ nữ pyjama đẹp mặc nhà hoa trắng Lila, bộ ngủ nữ sexy vải voan hoa nhí Uri Studio",
         "link": "https://shope.ee/7A7PmDRrA9"
@@ -1601,6 +1666,36 @@ const panel3 = [
 ]
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lez6jiiq8rreb8",
+        "text": "Áo croptop 2 dây bản to thiết kế dây đan sau lưng gợi cảm áo thun kiểu cổ vuông sexy tôn dáng có mút ngực LCH",
+        "link": "https://shope.ee/3KuxSnuPfU"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-les3k6jsjgbba5",
+        "text": "Áo thun baby tee cổ tròn thêu chữ Sobasic form body sexy áo phông nữ dáng dài tay raglan phối màu tôn dáng LCH",
+        "link": "https://shope.ee/6KYZ2FxfaE"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/ac2a5cd3fb6057f27f1db5e9c030226f",
+        "text": "GILLBABY | Áo croptop đắp chéo cột dây quyến rũ năng động dễ thương mặc được 4 kiểu (ELINA TOP)",
+        "link": "https://shope.ee/2L2O5yi8Xa"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22120-wj0wcw4wsjkvce",
+        "text": "GILL BABY | Chân váy dài gấp nếp bên hông đi chơi đi học đi làm sexy trendy basic (HOT CHICK SKIRT)",
+        "link": "https://shope.ee/6fBNFxwNUY"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-2o6qlk09adiv2e",
+        "text": "GILL BABY | Áo croptop trễ vai cutout tay dài cuốn biên đi chơi hẹn hò đi biển (GIRL CRUSH TOP)",
+        "link": "https://shope.ee/5AMZT8yxcX"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/459b434151c10f60adb4b80672d0a61c",
+        "text": "GILL BABY | Chân váy tầng xoè xếp ly 2 tầng có quần bảo hộ (HIGHTEEN SKIRT)",
+        "link": "https://shope.ee/1q67V2KODS"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf188yeiq447eb",
         "text": "Aither Studio Áo thun BASIC BUBBLE TEE Black/Beige/Pink/White",
@@ -2161,6 +2256,11 @@ const panel8 = [
 ]
 // Mỹ Phẩm---------------------------------------------------------------------------------------------------------------------------
 const panel9 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfplzg2oi35w42",
+        "text": "Combo sữa dưỡng thể, sữa tắm dưỡng trắng Niacinamide 500ml",
+        "link": "https://shope.ee/8pFgUhOAuV"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-90iuynt7gbnvce",
         "text": "Tẩy Tế Bào Chết Body Cà Phê Hữu Cơ 500g Hella Beauty Cho Mọi Loại Da Giúp Dưỡng Trắng Da Toàn Thân, Giảm Mụn Mờ Thâm",
