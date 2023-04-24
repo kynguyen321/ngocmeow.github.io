@@ -1,8 +1,15 @@
 const vouchers = [
     {
+        link: 'https://shope.ee/7f3wdSeLrw',
+        type: 'discount',
+        title: 'Giảm 10%',
+        description: 'Giảm tối đa ₫50k',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
         link: 'https://shope.ee/7pMyi1rqgT',
         type: 'discount',
-        title: 'Giảm ₫30k',
+        title: 'Giảm ₫25k',
         description: 'Không giới hạn giá trị khuyến mãi tối đa',
         date: 'Sắp hết hạn: Còn'
     },
@@ -17,7 +24,7 @@ const vouchers = [
         link: 'https://shope.ee/6UrkQHSzXU',
         type: 'discount',
         title: 'Giảm ₫20k',
-        description: 'Không giới hạn giá trị khuyến mãi tối đa',
+        description: 'Đơn tối thiểu ₫99k',
         date: 'Sắp hết hạn: Còn'
     },
 ]

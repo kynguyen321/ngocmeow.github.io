@@ -272,10 +272,10 @@ body {
 .voucher .info .text {
   flex: 5;
   padding-right: 5px;
+  width: 80%;
 }
 
 .voucher .info .btn {
-  flex: 2;
   margin-top: 18px;
   position: relative;
   display: flex;
@@ -305,6 +305,10 @@ body {
   font-weight: 500;
 }
 
+#voucher-list {
+  padding-left: 5px;
+}
+
 .des-vc {
   color: rgb(89, 89, 89);
   font-size: 11px;
@@ -330,4 +334,16 @@ body {
   left: -.25rem;
   top: .3rem;
   font-weight: 300;
+}
+
+.vctag:after {
+  background-color: #dfa400;
+  border: .1875rem solid transparent;
+  content: "";
+  height: 0;
+  left: .0625rem;
+  position: absolute;
+  top: calc(100% + .0625rem);
+  transform: rotate(-45deg) translate(50%,-50%);
+  width: 0;
 }
