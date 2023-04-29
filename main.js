@@ -42,34 +42,14 @@ const vouchers = [
 const panel1 = [
     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfyyuayxljzec5",
-        "text": "Chân váy jean bò ngắn ôm rách nhẹ TiQi Jeans V1-265",
-        "link": "https://shope.ee/4fQKtWrCxL"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf41667100uva7",
+        "text": "TEE LOGO SENTINIALS áo thun tay ngắn",
+        "link": "https://shope.ee/4V72JxeVxg"
     },
     {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfrocgzegjxzb6",
-        "text": "Chân váy jean rách chữ A phối cúc giữa TiQi Jeans V1-269Đồ bộ mặc nhà pyjama xô muslin hoạ tiết quả đào nền hồng Dabi",
-        "link": "https://shope.ee/7zgmrYcTPl"
-    },
-    {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfplzg2oi35w42",
-        "text": "Combo sữa dưỡng thể, sữa tắm dưỡng trắng Niacinamide 500ml",
-        "link": "https://shope.ee/8pFgUhOAuV"
-    },
-    {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lep7fba336wic9",
-        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết quả đào nền hồng Dabi",
-        "link": "https://shope.ee/1AqELxcSoL"
-    },
-    {
-        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lep7i3dim0tv82",
-        "text": "Đồ bộ mặc nhà pyjama xô muslin hoạ tiết hoa tulip nền trắng kem Dabi",
-        "link": "https://shope.ee/qDNxCTkyF"
-    },
-    {
-        "img": "https://down-vn.img.susercontent.com/file/73fe75d0c285d0abf595003fab057f6b",
-        "text": "Áo Hoodie Mũ Trùm Vải Nỉ Bông Unisex FERNERY - HADES Brand Chính Hãng",
-        "link": "https://shope.ee/5zvYvsnvUX"
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-8ikp68yyyvova4",
+        "text": "LONGSLEEVE ILLUSION SENTINIALS áo tay dài",
+        "link": "https://shope.ee/6fAiMyjCgD"
     },
     //tạm thời ------------------------------------------------TẠM THỜI-----------------------------------------------------
     {
@@ -248,7 +228,62 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
-        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-w5e7c4jt2imv5a",
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfsfvsnxnwtz73",
+        "text": "Đầm dạo phố quyến rũ",
+        "link": "https://shope.ee/4V725qXBwo"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-jaqmev64fxnvd6",
+        "text": "Set áo sơ mi cách điệu mix chân váy xẻ tà dập li chảnh xỉu (Ảnh thật của sản phẩm)",
+        "link": "https://shope.ee/3Abcr4QrxI"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-9ozr3i2qcfnv2d",
+        "text": "Set tiêu thư 3 món áo sơ mi tay bồng kèm set đen (Ảnh thật shop chụp",
+        "link": "https://shope.ee/6AFEQxS1E9"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-x7d1gwnpaqnv3d",
+        "text": "Váy tơ lông cổ yếm dáng xoè (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/Ay3AcRqsN"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf891e00uqa25c",
+        "text": "Đầm Corset 2 Dây Thắt Nơ Rút Eo Phối Bèo Dáng Xoè",
+        "link": "https://shope.ee/10X6sG5JAr"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-8v15gljxegovb3",
+        "text": "Đầm Voan Hoa Bẹt Vai Dáng Ngắn Xoè Nhiều Tầng",
+        "link": "https://shope.ee/9UVeztPbn9"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lern8wfni5qid4",
+        "text": "Đầm Midi 2 Dây Dạng Corset Phối Váy Voan Bóng Dáng Xoè",
+        "link": "https://shope.ee/qDgfs8Emf"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfxmxvyn0t87c2",
+        "text": "Váy cánh tiên cổ tàu dáng bồng xoè đính ngọc (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/2Aj444b6WG"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf2yt1zifdl601",
+        "text": "Váy tơ dây ngọc dáng bồng có tay tách rời (Ảnh thật shop chụp)",
+        "link": "https://shope.ee/7UkaQFguiO"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-4wfp7lnb13mv85",
+        "text": "Váy ren hai dây trễ vai phối bèo be LeeGi Design phong cách tiểu thư sang chảnh",
+        "link": "https://shope.ee/1L9ubVrq08"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23010-c6z3rzgshxmv34",
+        "text": "Váy cúp ngực ba tầng LeeGi Design chất liệu tơ mềm cao cấp phong cách thanh lịch sang trọng",
+        "link": "https://shope.ee/7pNOLPd6Vk"
+    },
+    {
+        "img": "https://image.passio.eco/passio-prod/512x512/builder/62dd56294a305458b75bb367/IMG_0185.jpeg",
         "text": "Váy body ba lỗ tôn dáng sexy đầm hai dây bảng to ôm sát nách cổ xẻ V gợi cảm vải thun gân dày xịn Lch",
         "link": "https://shope.ee/6fBPQnBxn6"
     },
