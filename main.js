@@ -1,32 +1,33 @@
 const vouchers = [
     {
-        link: 'https://shope.ee/7f3wdSeLrw',
+        link: 'https://shope.ee/4pjshbx9Rw',
         type: 'discount',
-        title: 'Giảm 10%',
-        description: 'Giảm tối đa ₫50k',
+        title: 'Giảm ₫40k',
+        description: 'Không giới hạn giá trị khuyến mãi tối đa',
         date: 'Sắp hết hạn: Còn'
     },
     {
-        link: 'https://shope.ee/7pMyi1rqgT',
+        link: 'https://shope.ee/4pjshbx9Rw',
         type: 'discount',
-        title: 'Giảm ₫25k',
+        title: 'Giảm ₫30k',
         description: 'Không giới hạn giá trị khuyến mãi tối đa',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
+        link: 'https://shope.ee/7f3wdSeLrw',
+        type: 'discount',
+        title: 'Giảm 10%',
+        description: 'Giảm tối đa ₫100k',
         date: 'Sắp hết hạn: Còn'
     },
     {
         link: 'https://shope.ee/AUNtBYXFFk',
         type: 'ship',
-        title: 'Miễn phí vận chuyển',
-        description: 'Đơn tối thiểu ₫0k',
+        title: 'Giảm tối đa ₫15k',
+        description: 'Đơn tối thiểu ₫50k',
         date: 'Sắp hết hạn: Còn'
     },
-    {
-        link: 'https://shope.ee/6UrkQHSzXU',
-        type: 'discount',
-        title: 'Giảm ₫20k',
-        description: 'Đơn tối thiểu ₫99k',
-        date: 'Sắp hết hạn: Còn'
-    },
+    
 ]
 //1 do meo ban
 //2 Váy,set bộ
