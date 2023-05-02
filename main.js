@@ -1,9 +1,16 @@
 const vouchers = [
     {
-        link: 'https://shope.ee/4pjshbx9Rw',
+        link: 'https://shope.ee/7f3wdSeLrw',
         type: 'discount',
-        title: 'Giảm ₫40k',
-        description: 'Không giới hạn giá trị khuyến mãi tối đa',
+        title: 'Giảm 10%',
+        description: 'Giảm tối đa ₫70k',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
+        link: 'https://shope.ee/AUNtBYXFFk',
+        type: 'ship',
+        title: 'Giảm tối đa ₫35k',
+        description: 'Đơn tối thiểu ₫150k',
         date: 'Sắp hết hạn: Còn'
     },
     {
@@ -13,21 +20,6 @@ const vouchers = [
         description: 'Không giới hạn giá trị khuyến mãi tối đa',
         date: 'Sắp hết hạn: Còn'
     },
-    {
-        link: 'https://shope.ee/7f3wdSeLrw',
-        type: 'discount',
-        title: 'Giảm 10%',
-        description: 'Giảm tối đa ₫100k',
-        date: 'Sắp hết hạn: Còn'
-    },
-    {
-        link: 'https://shope.ee/AUNtBYXFFk',
-        type: 'ship',
-        title: 'Giảm tối đa ₫15k',
-        description: 'Đơn tối thiểu ₫50k',
-        date: 'Sắp hết hạn: Còn'
-    },
-    
 ]
 //1 do meo ban
 //2 Váy,set bộ
@@ -228,6 +220,16 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfjogs48eyydd5",
+        "text": "Set áo 2s dài xẻ tà+ quần suông jean 2 màu",
+        "link": "https://shope.ee/7zgutooBPV"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-tnsr8hrvu6nv00",
+        "text": "hion store - set áo xẻ kèm short nâu hot",
+        "link": "https://shope.ee/1LA0xdXwfZ"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfsfvsnxnwtz73",
         "text": "Đầm dạo phố quyến rũ",
         "link": "https://shope.ee/4V725qXBwo"
@@ -318,7 +320,7 @@ const panel2 = [
         "link": "https://shope.ee/1VTB5cdtkw"
     },
     {
-        "img": "hhttps://down-vn.img.susercontent.com/file/sg-11134201-22100-avn8d75mmtiv08",
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22100-gd4du65mmtiv64",
         "text": "Áo dạ + áo ren + váy đen - Chitchitstore",
         "link": "https://shope.ee/1fmbY1AAXT"
     },
@@ -1702,6 +1704,11 @@ const panel3 = [
 ]
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf41667100uva7",
+        "text": "TEE LOGO SENTINIALS áo thun tay ngắn",
+        "link": "https://shope.ee/4V72JxeVxg"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lez6jiiq8rreb8",
         "text": "Áo croptop 2 dây bản to thiết kế dây đan sau lưng gợi cảm áo thun kiểu cổ vuông sexy tôn dáng có mút ngực LCH",
