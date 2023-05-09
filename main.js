@@ -2,8 +2,15 @@ const vouchers = [
     {
         link: 'https://shope.ee/7f3wdSeLrw',
         type: 'discount',
-        title: 'Giảm 10%',
-        description: 'Giảm tối đa ₫70k',
+        title: 'Giảm 20%',
+        description: 'Giảm tối đa ₫50k',
+        date: 'Sắp hết hạn: Còn'
+    },
+    {
+        link: 'https://shope.ee/7f3wdSeLrw',
+        type: 'discount',
+        title: 'Hoàn 8% xu',
+        description: 'Tối đa ₫70k',
         date: 'Sắp hết hạn: Còn'
     },
     {
@@ -16,7 +23,7 @@ const vouchers = [
     {
         link: 'https://shope.ee/4pjshbx9Rw',
         type: 'discount',
-        title: 'Giảm ₫30k',
+        title: 'Giảm ₫20k',
         description: 'Không giới hạn giá trị khuyến mãi tối đa',
         date: 'Sắp hết hạn: Còn'
     },
@@ -30,9 +37,21 @@ const vouchers = [
 //7 giày
 //8 phụ kiện, balo
 //9 mỹ phẩm
+
+//9/5
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-p5iejwuinenv5c",
+        "text": "Chân váy nữ STELLA chân váy ngắn chữ A chất kaki co giãn túi trước phong cách basic Jem Closet Studio 3416",
+        "link": "https://shope.ee/3fY1j8GQb2"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfs2cjxscqjucf",
+        "text": "Áo Phông Nữ Dập Chữ Cá Tính JEM CLOSET Chất Cotton Form Rộng Siêu Thoải Mái LANEN 10457",
+        "link": "https://shope.ee/AUOLrT0C5h"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf41667100uva7",
         "text": "TEE LOGO SENTINIALS áo thun tay ngắn",
@@ -219,6 +238,111 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/bc71141bf95f408502d230f306578daa",
+        "text": "Váy trễ vai bèo váy xoè 2 tầng dáng ngắn công chúa đi biển, đi tiệc, kỷ yếu tiệm của Miêu lalacrush",
+        "link": "https://shope.ee/fuZcJy2uO"
+    },  
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfga7mzxuhdhbf_tn",
+        "text": "Set áo tay phồng hoa nhí buộc nơ sau lưng phối với quần ngắn tiểu thư nữ tính",
+        "link": "https://shope.ee/5pcgKEwIRW"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfga7mzy2ws53f",
+        "text": "Set áo hai dây hoa nhí buộc nơ sau lưng phối với quần ngắn tiểu thư nữ tính Ella set Fairy&Co",
+        "link": "https://shope.ee/5Uzpvc2AA5"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lepgfk0ng81f72",
+        "text": "Váy cổ bèo cúc ngọc tiểu thư, sang chảnh baziz closet",
+        "link": "https://shope.ee/AK55gTSZGb"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfy7t1k2hqay39",
+        "text": "Set áo nơ chân váy xếp li nữ xinh, mặc đi chơi đi làm lịch sự",
+        "link": "https://shope.ee/7pNkhrcLrN"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-vd9q7nezfuov9d",
+        "text": "Set tiểu thư cổ bèo kèm nơ ngực baziz closet",
+        "link": "https://shope.ee/fuaAfUqBd"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/9fd2d4a0b413e5acffac47c6fab76b64",
+        "text": "Set váy hoa nhí cổ yếm dáng dài kèm áo khoác cardigan croptop Ulzzang HABII V02",
+        "link": "https://shope.ee/4KnsXODIaA"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf4yzee3g6mi7a",
+        "text": "Set áo cổ yếm quần ống rộng SE16",
+        "link": "https://shope.ee/9p8p5RtVII"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/fe1cf80163faa411d25c51b8603a685b",
+        "text": "Set váy thời trang nữ vest( k kèm nơ)+ váy 2 dây tiểu thư",
+        "link": "https://shope.ee/3AbpXKWm3d"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/3e1f63ab939f6725bcd123cde3193f89_tn",
+        "text": "Set cánh tiên trễ vai ( chân váy có quần trong)",
+        "link": "https://shope.ee/8ewm5PYdto"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-lggl9qtjawjvc4",
+        "text": "Váy ren thiết kế tiểu thư 2 lớp cổ vuông tay bồng ( hàng loại 1)",
+        "link": "https://shope.ee/4V7D7fqWZv"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg1lubs1y2nr16",
+        "text": "Swan Dress - Váy đính lông thiết kế cao cấp DTM",
+        "link": "https://shope.ee/2AjFy89UR8"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdrg0hq2qy04",
+        "text": "REMY Top - Áo quây phối voan DTM kèm choker",
+        "link": "https://shope.ee/1fmzMXNklN"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdrfznpw16a2",
+        "text": "Myra Top - Áo quây xếp ly ngực DTM",
+        "link": "https://shope.ee/5fJ87vu7AI"
+    },    
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-z2zt05ewapov17",
+        "text": "Remis Top - Áo gấm trễ vai ôm ngực DTM",
+        "link": "https://shope.ee/LHg6HdQxs"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdscaig7av48",
+        "text": "Myla Top - Áo tay bồng đính cúc hoa DTM",
+        "link": "https://shope.ee/4pk18Sr8Mu"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfvdscaix1t66b",
+        "text": "Tini Set - Set áo blazer và chân váy xếp ly hoạ tiết kẻ DTM",
+        "link": "https://shope.ee/9p8h5dLIv3"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg3psy1gwkc7ef",
+        "text": "Tini skirt - chân váy kẻ thiết kế DTM ( 2 form ngắn dài)",
+        "link": "https://shope.ee/2L2o99QFdv"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg0wwk76vlnu83",
+        "text": "Aó trễ vai tay bồng babydoll , áo kiểu hai dây sang chảnh",
+        "link": "https://shope.ee/1VTYsWALqd"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lfeudbkgh4dx0a",
+        "text": "[CÓ BIGSIZE] Đầm Maxi FREESIZEhai dây thắt nơ dáng babydoll nhiều màu phong cách Hàn Quốc mùa hè đi biển",
+        "link": "https://shope.ee/1VTYsSTqCm"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfzor6k8025z4a",
+        "text": "Váy hoa nhí cúp ngực tay bồng tiểu thư thiết kế sang trọng Rio wonmen's",
+        "link": "https://shope.ee/4pk5RJMKmF"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfjogs48eyydd5",
         "text": "Set áo 2s dài xẻ tà+ quần suông jean 2 màu",
@@ -1704,6 +1828,31 @@ const panel3 = [
 ]
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfl5frs5dbic6f",
+        "text": "Áo thun baby tee phối sọc vải cotton 2 chiều cao cấp thêu logo Anis",
+        "link": "https://shope.ee/6KYn9jvbgO"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lggon8tjh6nr25",
+        "text": "Chân váy y2k chất vải cotton có quần lưng thấp Anis",
+        "link": "https://shope.ee/6KYn9jvbgO"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfl401svu7hx5e",
+        "text": "Áo thun baby tee fit dáng chất vải thun 2 chiều không co rút in Anis",
+        "link": "https://shope.ee/5KgFxmxlyq"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-p5iejwuinenv5c",
+        "text": "Chân váy nữ STELLA chân váy ngắn chữ A chất kaki co giãn túi trước phong cách basic Jem Closet Studio 3416",
+        "link": "https://shope.ee/3fY1j8GQb2"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfs2cjxscqjucf",
+        "text": "Áo Phông Nữ Dập Chữ Cá Tính JEM CLOSET Chất Cotton Form Rộng Siêu Thoải Mái LANEN 10457",
+        "link": "https://shope.ee/AUOLrT0C5h"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf41667100uva7",
         "text": "TEE LOGO SENTINIALS áo thun tay ngắn",
