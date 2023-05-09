@@ -239,6 +239,26 @@ const panel1 = [
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf6m571c779mf6",
+        "text": "Liberty Dress - Váy trắng tay dài cổ nơ",
+        "link": "https://shope.ee/5fJG93PuYV"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfgedu98xto5fb",
+        "text": "Empire Dress - Váy bèo trễ vai dài công chúa",
+        "link": "https://shope.ee/9UVyi43KJ0"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgddz3y4kqy273",
+        "text": "Sweet Tango Dress - Váy tơ dài tay bèo ngực",
+        "link": "https://shope.ee/7zhAvFfnJW"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfoyrqdv14lge8",
+        "text": "[Yelly Dress] Váy cổ yếm đính đá 2 tầng xoè công chúa chụp kỷ yếu, đi chơi, đi du lịch, đi tiệc LalaCrush",
+        "link": "https://shope.ee/1q6XZr9M38"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/bc71141bf95f408502d230f306578daa",
         "text": "Váy trễ vai bèo váy xoè 2 tầng dáng ngắn công chúa đi biển, đi tiệc, kỷ yếu tiệm của Miêu lalacrush",
         "link": "https://shope.ee/fuZcJy2uO"
