@@ -2,8 +2,8 @@ const vouchers = [
     {
         link: 'https://shope.ee/7f3wdSeLrw',
         type: 'discount',
-        title: 'Giảm 20%',
-        description: 'Giảm tối đa ₫50k',
+        title: 'Giảm 15%',
+        description: 'Giảm tối đa ₫15k',
         date: 'Sắp hết hạn: Còn'
     },
     {
@@ -16,15 +16,15 @@ const vouchers = [
     {
         link: 'https://shope.ee/AUNtBYXFFk',
         type: 'ship',
-        title: 'Giảm tối đa ₫35k',
-        description: 'Đơn tối thiểu ₫150k',
+        title: 'Giảm tối đa ₫15k',
+        description: 'Đơn tối thiểu ₫50k',
         date: 'Sắp hết hạn: Còn'
     },
     {
         link: 'https://shope.ee/4pjshbx9Rw',
         type: 'discount',
-        title: 'Giảm ₫20k',
-        description: 'Không giới hạn giá trị khuyến mãi tối đa',
+        title: 'Giảm ₫25k',
+        description: 'Cho toàn nghành thời trang',
         date: 'Sắp hết hạn: Còn'
     },
 ]
@@ -42,6 +42,21 @@ const vouchers = [
 //do meo ban---------------------------------------------------------------------------------------------------------------------------
 const panel1 = [
     //tạm thời ---------------------------------------------TẠM THỜI--------------------------------------------------------
+    {
+        "img": "https://down-vn.img.susercontent.com/file/3f639e1fb44ab79f2883083120b25e18",
+        "text": "Dây chuyền bạc nữ Miuu Silver, vòng cổ bạc đính 1 viên đá nhỏ xinh Elisie Necklace",
+        "link": "https://shope.ee/qEI1xunb1"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/8395e5b8ab0a157fe0fa7055dbdbc2e0",
+        "text": "Dây chuyền bạc Miuu Silver, vòng cổ nữ hình cái nơ đính đá xinh xắn, sang trọng",
+        "link": "https://shope.ee/7UlBy8FuQC"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgm26vj394xefe",
+        "text": "GWEN SENTINIALS BABY TEE áo thun form baby tee",
+        "link": "https://shope.ee/2ffwDQlObb"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-p5iejwuinenv5c",
         "text": "Chân váy nữ STELLA chân váy ngắn chữ A chất kaki co giãn túi trước phong cách basic Jem Closet Studio 3416",
@@ -238,6 +253,142 @@ const panel1 = [
 //
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 const panel2 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lghob3ea85t6e5",
+        "text": "ĐẦM MIDI YẾM",
+        "link": "https://shope.ee/3VF1fjHjxS"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lghosytun33ed1",
+        "text": "SET TÚI HỘP KAKI ÁO CROP 3M",
+        "link": "https://shope.ee/4AUiT20KLa"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgm00bcmdr1ua4",
+        "text": "Set quần dù- áo ống, quần túi hộp douyin hot chất vải gió hạt cao cấp ELWYN EL26",
+        "link": "https://shope.ee/5V07cjjUCw"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgxdw64w5j5e5d",
+        "text": "Váy yếm giả bò tôn dáng chất vải không nhăn cao cấp VAVASA V104",
+        "link": "https://shope.ee/A9lxBMZJAl"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgho5yb95ieidd",
+        "text": "SET JUMP ĐEN VIỀN 2S KÈM SƠ MI TRẮNG",
+        "link": "https://shope.ee/2VMSTe5IbA"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lghp01lftl2veb",
+        "text": "SET YẾM XÔ REN VIỀN TẦNG + SHORT TRẮNG",
+        "link": "https://shope.ee/5KgdqxrknY"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgneu2uwz5tee3",
+        "text": "Set áo bèo + quần - Chitchitstore",
+        "link": "https://shope.ee/funCASen3"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-leqxz5n8a3eb4c",
+        "text": "Set áo 2 dây thêu + quần - Chitchitstore",
+        "link": "https://shope.ee/9UWBiB4sUK"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/edad9ed5d842642ce83137c84b59fbe6",
+        "text": "Đầm yếm hoa xanh + khoác - Chitchitstore",
+        "link": "https://shope.ee/6KZ9wWLy52"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgm449zxfto375",
+        "text": "Set áo crop nút gỗ chân váy dài xòe Ảnh thật/Sẵn",
+        "link": "https://shope.ee/6UsZKXvJ8z"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgd7sjy1hfqvb0",
+        "text": "Đầm cúp ngực kèm dây buộc cổ Ảnh thật/Sẵn",
+        "link": "https://shope.ee/f5amkotT"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgu9p99nw8xef3",
+        "text": "Set đồ đi biển",
+        "link": "https://shope.ee/7pO2O28JHx"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-23020-lhmm1bixhhnv41",
+        "text": "Đầm hoa nổi tay dài nude - Chitchitstire",
+        "link": "https://shope.ee/VbReXsELJ"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgn72us6z01fb2",
+        "text": "Set áo 3 món vàng hồng - Chitchitstore",
+        "link": "https://shope.ee/3Kvd1jQO2B"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfntrrrx3j3p65",
+        "text": "Set áo yếm nude hoa nổi + quần trắng - Chitchitstore",
+        "link": "https://shope.ee/3Kvd1iZrgy"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-ley7ledrsw3u56",
+        "text": "ĐẦM GẤM HOA CỔ V NƠ TRẮNG",
+        "link": "https://shope.ee/8A0smaHSM4"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfse8w54shuy87",
+        "text": "Đầm váy lụa công chúa trễ vai form baby doll dễ thương sang chảnh đính đá đi tiệc đi chơi hẹn hò Helen Dress",
+        "link": "https://shope.ee/6fC4zoRyEE"
+    },   
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-23030-hosw53x6jsov14",
+        "text": "Đầm ,áo babydoll dáng rộng tay bồng tiểu thư quảng châu 2 chi tiết",
+        "link": "https://shope.ee/9p96lc7vqy"
+    },   
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-hqi59h50l1nva3",
+        "text": "Set dạ tiểu thư 2 chi tiết quảng châu cao cấp",
+        "link": "https://shope.ee/3prtcZdZ48"
+    }, 
+    {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lentmzau4aerd2_tn",
+        "text": "Set váy tiểu thư có khoá sang chảnh mix áo quây kèm quần sooc thiết kế ELWYN EL04",
+        "link": "https://shope.ee/7A8Lafo1cI"
+    }, 
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-cg7nysiq2gov7b",
+        "text": "Chân váy cạp cao hot trend phối vải vạt chất liệu cao cấp không nhăn-kèm đai VAVASA CV32",
+        "link": "https://shope.ee/3AcCpJ7qlw"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-o01kjvidxgov48",
+        "text": "Áo sơ mi nữ thiết kế khóa kéo hot trend độc đáo chất vải cao cấp không nhăn VAVASA SM43",
+        "link": "https://shope.ee/fB3T6yN0"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23020-hqi59h50l1nva3",
+        "text": "Set dạ tiểu thư 2 chi tiết quảng châu cao cấp",
+        "link": "https://shope.ee/A9lxA7igka"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-xmqwasyqx6nv64",
+        "text": "Đầm xoè hoa nhí tay phồng dáng ngắn tiểu thư quảng châu loại 1",
+        "link": "https://shope.ee/5zwOCOeATJ"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfp76k03u0dxb2_tn",
+        "text": "[EMMA SET] Set váy xinh tháo rời Tafta vân hoa cao cấp lalacrush",
+        "link": "https://shope.ee/7UlBz883Cj"
+    },   
+     {
+        "img": "https://down-vn.img.susercontent.com/file/sg-11134201-22110-s7l0ln1qjejva9",
+        "text": "Đầm xoè tay phồng trễ vai tiểu thư Stella Dress - MIDSUMMER",
+        "link": "https://shope.ee/AUOnYcoZuS"
+    },  
+     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfcg4nnp9zes55",
+        "text": "Đầm trắng 2 tầng dáng xoè Gwen Dress - MIDSUMMER",
+        "link": "https://shope.ee/8A0smJ6rVg"
+    },
+    ///end
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lf6m571c779mf6",
         "text": "Liberty Dress - Váy trắng tay dài cổ nơ",
@@ -1849,6 +2000,11 @@ const panel3 = [
 //ao thun, croptop---------------------------------------------------------------------------------------------------------------------------
 const panel4 = [
     {
+        "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lgm26vj394xefe",
+        "text": "GWEN SENTINIALS BABY TEE áo thun form baby tee",
+        "link": "https://shope.ee/2ffwDQlObb"
+    },
+    {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfl5frs5dbic6f",
         "text": "Áo thun baby tee phối sọc vải cotton 2 chiều cao cấp thêu logo Anis",
         "link": "https://shope.ee/6KYn9jvbgO"
@@ -2375,6 +2531,16 @@ const panel7 = [
 ]
 // Ba lô, Phụ kiện, Giày---------------------------------------------------------------------------------------------------------------------------
 const panel8 = [
+    {
+        "img": "https://down-vn.img.susercontent.com/file/3f639e1fb44ab79f2883083120b25e18",
+        "text": "Dây chuyền bạc nữ Miuu Silver, vòng cổ bạc đính 1 viên đá nhỏ xinh Elisie Necklace",
+        "link": "https://shope.ee/qEI1xunb1"
+    },
+    {
+        "img": "https://down-vn.img.susercontent.com/file/8395e5b8ab0a157fe0fa7055dbdbc2e0",
+        "text": "Dây chuyền bạc Miuu Silver, vòng cổ nữ hình cái nơ đính đá xinh xắn, sang trọng",
+        "link": "https://shope.ee/7UlBy8FuQC"
+    },
     {
         "img": "https://down-vn.img.susercontent.com/file/vn-11134201-23030-pq8nssmw6xov64",
         "text": "Tinh dầu nước hoa CODEDECO Hanoi 29 Glamor 10ml Nhẹ Nhàng, Thanh Lịch, Tinh Tế",
