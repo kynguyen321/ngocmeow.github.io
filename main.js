@@ -24,7 +24,7 @@ const vouchers = [
         link: 'https://shope.ee/4pjshbx9Rw',
         type: 'discount',
         title: 'Giảm ₫25k',
-        description: 'Cho toàn nghành thời trang',
+        description: 'Cho toàn ngành thời trang',
         date: 'Sắp hết hạn: Còn'
     },
 ]
